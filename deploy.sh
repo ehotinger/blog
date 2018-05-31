@@ -1,12 +1,12 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+echo "Deploying updates to GitHub"
 
 hugo -t hyde
 cd public
 git add .
 
-msg="rebuilding site `date`"
+msg="Automatically rebuilt - `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi

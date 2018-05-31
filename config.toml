@@ -1,8 +1,43 @@
-baseURL = "https://ehotinger.github.io/"
-languageCode = "en-us"
-title = "ehotinger"
-theme = "hyde"
-CanonifyUrls = true
+baseurl             = "https://ehotinger.github.io/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
+author              = "Eric Hotinger"
+title               = "Eric Hotinger"
+pygmentsuseclasses  = true
+pluralizelisttitles = false
+
+[permalinks]
+blog  = "blog/:slug/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
 
 [params]
-	description = "Eric Hotinger's blog"
+include_rss            = false
+latestpostscount       = 10
+i18n_flags             = false
+author                 = "Eric Hotinger"
+cachebuster            = true
+dateform               = "Jan 2, 2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+description            = "Random ramblings"
+email                  = "ehotinger@gmail.com"
+github                 = "//github.com/ehotinger"
+lang                   = "en"
+linkedin               = "//linkedin.com/in/eric-hotinger-9b7b2b52"
+noshowreadtime         = false
+selfintro              = ""
+twitter                = "//twitter.com/ehotinger"
+
+highlightjs            = true
+highlightjslanguages = ["go"]
+
+gravatar             = "e3131f3ca9334610f612fc3627c80e73"

@@ -50,8 +50,7 @@ cd ..
 ```
 
 Straightforward to read, but this will just make a commit automatically on your behalf for the 2nd repository you made.
-
-11. You can now commit freely to your unrendered blog website as well as your GitHub pages.
+You can now commit freely to your unrendered blog website as well as your GitHub pages.
 
 Other useful things:
 

@@ -2,7 +2,7 @@
 
 echo "Deploying updates to GitHub"
 
-hugo -t hyde
+hugo -t cocoa
 cd public
 git add .
 

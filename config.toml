@@ -1,0 +1,8 @@
+baseURL = "https://ehotinger.github.io/"
+languageCode = "en-us"
+title = "ehotinger"
+theme = "hyde"
+CanonifyUrls = true
+
+[params]
+	description = "Eric Hotinger's blog"

@@ -2,9 +2,10 @@
 
 This is the source code for my blog.
 
-## Cloning
+## Installing
 
-`git clone https://github.com/ehotinger/blog --recursive`
+- `git clone https://github.com/ehotinger/blog --recursive`
+- `snap install hugo`
 
 ## Deploying
 

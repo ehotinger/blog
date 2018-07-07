@@ -2,6 +2,10 @@
 
 This is the source code for my blog.
 
-### Deploying
+## Cloning
+
+`git clone https://github.com/ehotinger/blog --recursive`
+
+## Deploying
 
 `bash deploy.sh`

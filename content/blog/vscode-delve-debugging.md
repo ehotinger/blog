@@ -19,7 +19,7 @@ Sometimes when you're debugging if a variable's value is really long, i.e. more 
 
 Open your user settings or workspace settings (CTRL + SHIFT + P) => type settings and choose one from the dropdown list. Then, check out this JSON for various settings you can configure. The `maxStringLen` setting is the one you care about the most. Note that depending on these settings you can cause serious perf gain/loss, so tinker with them.
 
-```
+```json
 {
     "go.delveConfig": {
         "useApiV1": false,
@@ -34,10 +34,6 @@ Open your user settings or workspace settings (CTRL + SHIFT + P) => type setting
 }
 ```
 
-Here's the source code for the related configuration loading:
+[Here is the source code](https://github.com/Microsoft/vscode-go/blob/master/src/goDebugConfiguration.ts)for the related configuration loading:
 
-- https://github.com/Microsoft/vscode-go/blob/master/src/goDebugConfiguration.ts
-
-And there's some useful discussion here before the feature was added:
-
-- https://github.com/Microsoft/vscode-go/issues/1555#issuecomment-393366905
+And there's some [useful discussion here](https://github.com/Microsoft/vscode-go/issues/1555#issuecomment-393366905) before the feature was added.

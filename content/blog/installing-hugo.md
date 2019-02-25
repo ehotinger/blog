@@ -34,7 +34,7 @@ This is a quick-start guide to setting up Hugo with [GitHub pages](https://pages
 
 10. Finally, it's time to deploy. A simple bash script like the following is all you need:
 
-```
+```sh
 hugo -t hyde
 cd public
 git add .

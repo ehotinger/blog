@@ -1,5 +1,5 @@
 ---
-title: "Bypassing the character limit displayed when debuggin with Delve and VSCode"
+title: "Bypassing the character limit displayed when debugging with Delve and VSCode"
 date: 2019-02-25T00:00:00-07:00
 author: "Eric Hotinger"
 description: "Setting up a Windows environment for Golang (including Make)"
@@ -34,6 +34,6 @@ Open your user settings or workspace settings (CTRL + SHIFT + P) => type setting
 }
 ```
 
-[Here is the source code](https://github.com/Microsoft/vscode-go/blob/master/src/goDebugConfiguration.ts)for the related configuration loading:
+[Here is the source code](https://github.com/Microsoft/vscode-go/blob/master/src/goDebugConfiguration.ts) for the related configuration loading:
 
 And there's some [useful discussion here](https://github.com/Microsoft/vscode-go/issues/1555#issuecomment-393366905) before the feature was added.

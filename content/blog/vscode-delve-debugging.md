@@ -23,13 +23,13 @@ Open your user settings or workspace settings (CTRL + SHIFT + P) => type setting
 {
     "go.delveConfig": {
         "useApiV1": false,
-            "dlvLoadConfig": {
-                "followPointers": true,
-                "maxVariableRecurse": 1,
-                "maxStringLen": 300,
-                "maxArrayValues": 64,
-                "maxStructFields": -1
-            }
+        "dlvLoadConfig": {
+            "followPointers": true,
+            "maxVariableRecurse": 1,
+            "maxStringLen": 300,
+            "maxArrayValues": 64,
+            "maxStructFields": -1
+        }
     }
 }
 ```

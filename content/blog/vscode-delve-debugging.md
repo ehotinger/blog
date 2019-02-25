@@ -25,7 +25,7 @@ Open your user settings or workspace settings (CTRL + SHIFT + P) => type setting
         "useApiV1": false,
         "dlvLoadConfig": {
             "followPointers": true,
-            "maxVariableRecurse": 1,
+            "maxVariableRecurse": 3,
             "maxStringLen": 300,
             "maxArrayValues": 64,
             "maxStructFields": -1

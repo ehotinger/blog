@@ -4,9 +4,11 @@ date: 2019-07-16T14:15:54-07:00
 draft: false
 tags:
 - acr
+- docker
 
 categories:
 - dev
+- docker
 
 slug: acr-tasks-daily-autopurge
 ---
@@ -57,7 +59,7 @@ You specify the "null" or non-existent context in the Azure CLI by using `/dev/n
 For example, you can run the following command to run the `hello-world` Docker image without uploading any context to the registry:
 
 ```sh
-$ az acr run /dev/null --cmd "hello-world" -r <registry>
+az acr run /dev/null --cmd "hello-world" -r <registry>
 ```
 
 ## Autopurge

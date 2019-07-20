@@ -8,6 +8,7 @@ tags:
 
 categories:
 - dev
+- acr
 - docker
 
 slug: acr-tasks-daily-autopurge

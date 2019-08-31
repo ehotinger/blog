@@ -16,11 +16,9 @@ categories:
 slug: acr-tasks-daily-autopurge
 ---
 
-
 [Azure Container Registry Tasks](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview) came out with a *lot* of new features in the last year. Many people don't realize the insane potential of this service, so I wanted to share a few things that you probably didn't know and some of the things the team has been working on.
 
 In particular, I wanted to use [one of the most common feature requests](https://github.com/Azure/acr/issues/82) of the Azure Container Registry - automatic garbage collection of old or unused tags/manifests/images - as an example of how you can make the world your oyster using ACR Tasks.
-
 
 ## Creating a multi-step Task
 

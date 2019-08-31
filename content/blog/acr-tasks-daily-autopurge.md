@@ -5,11 +5,13 @@ draft: false
 tags:
 - acr
 - docker
+- Azure
 
 categories:
 - dev
 - acr
 - docker
+- Azure
 
 slug: acr-tasks-daily-autopurge
 ---

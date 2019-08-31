@@ -24,6 +24,7 @@ url                    = "/blog/"
 
 [params]
 include_rss            = true
+faviconfile            = "img/favicon.ico"
 latestpostscount       = 10
 i18n_flags             = false
 author                 = "Eric Hotinger"

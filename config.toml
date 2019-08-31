@@ -23,7 +23,7 @@ identifier             = "blog"
 url                    = "/blog/"
 
 [params]
-include_rss            = false
+include_rss            = true
 latestpostscount       = 10
 i18n_flags             = false
 author                 = "Eric Hotinger"

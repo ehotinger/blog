@@ -10,6 +10,7 @@ author              = "Eric Hotinger"
 title               = "Eric Hotinger"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
+googleAnalytics     = "UA-146787275-1"
 
 [permalinks]
 blog  = "blog/:slug/"

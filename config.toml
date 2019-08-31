@@ -11,6 +11,7 @@ title               = "Eric Hotinger"
 pygmentsuseclasses  = true
 pluralizelisttitles = false
 googleAnalytics     = "UA-146787275-1"
+enableRobotsTXT     = true
 
 [permalinks]
 blog  = "blog/:slug/"

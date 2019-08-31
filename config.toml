@@ -1,4 +1,4 @@
-baseurl             = "https://ehotinger.github.io/"
+baseurl             = "https://ehotinger.com"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"

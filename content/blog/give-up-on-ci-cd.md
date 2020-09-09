@@ -8,6 +8,8 @@ tags:
 
 categories:
 - meta
+
+slug: give-up-on-ci-cd
 ---
 
 Give up on your glorious vision of CI/CD. I don't want that shit and your customers don't either. If you break me one more time this month I will lose my fucking mind and start looking at competitors. I can afford to wait 3 months for your new features. On second thought, I don't care if I get any new features ever again.

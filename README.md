@@ -1,6 +1,6 @@
 # blog
 
-This is the source code for my blog.
+This is the source code for my blog. See also: https://github.com/ehotinger/ehotinger.github.io
 
 ## Installing
 

@@ -5,7 +5,7 @@ This is the source code for my blog.
 ## Installing
 
 - `git clone https://github.com/ehotinger/blog --recursive`
-- `snap install hugo` or `brew install hugo`
+- `snap install hugo` (Linux) or `brew install hugo` (Mac) or `sudo apt install hugo` (WSL)
 
 ## Submodules
 

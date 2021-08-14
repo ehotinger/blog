@@ -20,4 +20,4 @@ This is the source code for my blog.
 
 ## Deploying
 
-`sudo bash deploy.sh`
+`./deploy.sh` (WSL) or `sudo bash deploy.sh` (Mac)

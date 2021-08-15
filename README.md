@@ -1,6 +1,6 @@
 # blog
 
-This is the source code for my blog.
+This is the source code for my blog. See also: https://github.com/ehotinger/ehotinger.github.io
 
 ## Installing
 
@@ -20,4 +20,4 @@ This is the source code for my blog.
 
 ## Deploying
 
-`sudo bash deploy.sh`
+`./deploy.sh` (WSL) or `sudo bash deploy.sh` (Mac)

@@ -22,14 +22,6 @@ Everyone struggles at different aspects of life. Some people need to read a ton 
 
 Incremental progress, even if it is 0.0001% each day is progress. Overnight success is not a thing; it appears like that to other people after countless days of small progressions.
 
-I grew up in the middle of nowhere in trailer parks, abuse, and drugs. I was the first person in my family to go to college. I didn't have serious mentors until late high school, and for the people who helped steer me in a positive direction, I am indefinitely grateful. A lot of people say I am a natural leader and I am an outgoing person, but the truth is I am absolutely nothing like that. I had crippling anxiety, depression, and panic attacks for more than 3 years of my life. I studied psychology and mental health for three years to help me deal with my own personal trauma. I am extremely fortunate and grateful to be where I am in life because the odds were against me.
-
-When I was around 13, I watched two interviews about a couple of brothers and their past. One brother was a successful doctor. He was happily married with kids and a family. The other brother was in jail after multiple felonies. When they interviewed the brother in jail, he spoke about how his father was a drug dealer, murderer, and more. When they asked how he ended up there, the brother said, "how could I end up any differently?"
-
-The second interview totally changed my perspective. They asked the same questions to the doctor. Similarly, he said "my father was a drug dealer, murderer, and more. How could I end up any differently?" This perception radically changed how I viewed life. Rather than using adversity as an excuse, they used it as as kindling for their soul. By my standards, the most successful, diverse, and kind people in the world have always dealt with significant adversity and it defines how they interact with people every day.
-
-Now that you know a bit about me and my weaknesses, here are some of the books I've enjoyed:
-
 ## Psychology
 - Anything by Dr. David Burns. For example, [Feeling Good: The New Mood Therapy](https://amzn.to/3g4VhLo). I listened to the entire [Feeling Good Podcast](https://feelinggood.com/list-of-feeling-good-podcasts/).
 - Anything by Thich Nhat Hanh. For example, [No Mud, No Lotus: The Art of Transforming Suffering](https://amzn.to/3g0uzTV).

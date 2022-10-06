@@ -22,6 +22,8 @@ Everyone struggles at different aspects of life. Some people need to read a ton 
 
 Incremental progress, even if it is 0.0001% each day is progress. Overnight success is not a thing; it appears like that to other people after countless days of small progressions.
 
+## Neuroscience
+- [The Secret Pulse of Time: Making Sense of Life's Scarcest Commodity](https://www.amazon.com/Secret-Pulse-Time-Scarcest-Commodity/dp/0738212563)
 ## Psychology
 - Anything by Dr. David Burns. For example, [Feeling Good: The New Mood Therapy](https://amzn.to/3g4VhLo). I listened to the entire [Feeling Good Podcast](https://feelinggood.com/list-of-feeling-good-podcasts/).
 - Anything by Thich Nhat Hanh. For example, [No Mud, No Lotus: The Art of Transforming Suffering](https://amzn.to/3g0uzTV).

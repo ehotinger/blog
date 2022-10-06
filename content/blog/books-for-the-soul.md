@@ -49,7 +49,6 @@ Nowadays, I exclusively read source code and white papers. Books are generally n
 - [Artificial Intelligence: A Modern Approach](https://amzn.to/3yRhfIY)
 - [JavaScript: The Good Parts](https://amzn.to/2XxLBTn)
 - [Range: Why Generalists Triumph in a Specialized World](https://amzn.to/2XxNEH3)
-- [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3xNqDvS)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://amzn.to/3jTFWyq)
 
 ## Neuroscience
@@ -62,6 +61,7 @@ Nowadays, I exclusively read source code and white papers. Books are generally n
 - [Metacognitive Therapy for Anxiety and Depression](https://amzn.to/3iO4rhe)
 - [Man's Search for Meaning](https://amzn.to/3jVxMp5)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/The-Power-of-Now-Eckhart-Tolle-audiobook/dp/B00005AAPL)
+- [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3xNqDvS)
 
 ## Leadership, Discipline, Exercise
 - [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/B0028TY1D8)

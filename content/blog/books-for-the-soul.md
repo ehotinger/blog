@@ -54,14 +54,18 @@ Nowadays, I exclusively read source code and white papers. Books are generally n
 
 ## Neuroscience
 - [The Secret Pulse of Time: Making Sense of Life's Scarcest Commodity](https://www.amazon.com/Secret-Pulse-Time-Scarcest-Commodity/dp/0738212563)
+- [The Expectation Effect: How Your Mindset Can Change Your World](https://www.amazon.com/Expectation-Effect-Mindset-Change-World/dp/B094DWPMQB)
 
 ## Psychology
 - Anything by Dr. David Burns. For example, [Feeling Good: The New Mood Therapy](https://amzn.to/3g4VhLo). I listened to the entire [Feeling Good Podcast](https://feelinggood.com/list-of-feeling-good-podcasts/).
 - Anything by Thich Nhat Hanh. For example, [No Mud, No Lotus: The Art of Transforming Suffering](https://amzn.to/3g0uzTV).
 - [Metacognitive Therapy for Anxiety and Depression](https://amzn.to/3iO4rhe)
 - [Man's Search for Meaning](https://amzn.to/3jVxMp5)
+- [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/The-Power-of-Now-Eckhart-Tolle-audiobook/dp/B00005AAPL)
 
-## Leadership and Discipline
+## Leadership, Discipline, Exercise
+- [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/B0028TY1D8)
+- [Running with the Mind of Meditation: Lessons for Training Body and Mind](https://www.amazon.com/Running-Mind-Meditation-Lessons-Training/dp/B01EK5P2H6)
 - [Can't Hurt Me: Master Your Mind and Defy the Odds](https://amzn.to/3AFqBrZ)
 - [Embrace the Suck: The Navy SEAL Way to an Extraordinary Life](https://amzn.to/3AFqpZN)
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://amzn.to/3xNID9t)

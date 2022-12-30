@@ -4,12 +4,10 @@ date: 2021-08-14T18:12:03-07:00
 draft: false
 
 tags:
-- dev
-- meta
+- books
 
 categories:
-- dev
-- meta
+- books
 
 slug: books-for-the-soul
 ---
@@ -56,12 +54,13 @@ Nowadays, I exclusively read source code and white papers. Books are generally n
 - [The Expectation Effect: How Your Mindset Can Change Your World](https://www.amazon.com/Expectation-Effect-Mindset-Change-World/dp/B094DWPMQB)
 
 ## Psychology
-- Anything by Dr. David Burns. For example, [Feeling Good: The New Mood Therapy](https://amzn.to/3g4VhLo). I listened to the entire [Feeling Good Podcast](https://feelinggood.com/list-of-feeling-good-podcasts/).
+- Anything by Dr. David Burns. For example, [Feeling Good: The New Mood Therapy](https://amzn.to/3g4VhLo) and [Feeling Great](https://www.amazon.com/gp/product/168373288X). I listened to the entire [Feeling Good Podcast](https://feelinggood.com/list-of-feeling-good-podcasts/).
 - Anything by Thich Nhat Hanh. For example, [No Mud, No Lotus: The Art of Transforming Suffering](https://amzn.to/3g0uzTV).
 - [Metacognitive Therapy for Anxiety and Depression](https://amzn.to/3iO4rhe)
 - [Man's Search for Meaning](https://amzn.to/3jVxMp5)
 - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/The-Power-of-Now-Eckhart-Tolle-audiobook/dp/B00005AAPL)
 - [Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3xNqDvS)
+- [The Power of Now](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808)
 
 ## Leadership, Discipline, Exercise
 - [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.amazon.com/Born-Run-Hidden-Superathletes-Greatest/dp/B0028TY1D8)

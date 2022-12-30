@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# .hugo_build.lock is an empty file for building hugo projects.
+.hugo_build.lock

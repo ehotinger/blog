@@ -12,7 +12,7 @@ categories:
 slug: give-up-on-ci-cd
 ---
 
-Give up on your glorious vision of CI/CD. I don't want that shit and your customers don't either. If you break me one more time this month I will lose my fucking mind and start looking at competitors. I can afford to wait 3 months for your new features. On second thought, I don't care if I get any new features ever again.
+Give up on your glorious vision of CI/CD. I don't want that and your customers don't either. If you break me one more time this month I will lose my mind and start looking at competitors. I can afford to wait 3 months for your new features. On second thought, I don't care if I get any new features ever again.
 
 I've written software whose sole purpose was to make CI/CD better. I've heard from so many developers and managers how CI/CD will change the world. It hasn't in the last 5 years and it never will. First of all, allow me to clarify - I mean *true* CI/CD - where every commit you make immediately rolls out to production. It's idyllic and naive. It is wholly impractical for the majority of software businesses. 
 

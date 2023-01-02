@@ -12,7 +12,7 @@ categories:
 slug: the-fearless-leader
 ---
 
-When you are in a living hell, the moment you start thinking of yourself instead of others, you have failed.
+When you are in a living nightmare, the moment you start thinking of yourself instead of others, you have failed.
 
 When you think of others, you stop focusing on yourself and your own desires. You ignore the fiery hell you are in. It becomes tolerable; a mild nuisance.
 

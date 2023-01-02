@@ -20,4 +20,5 @@ This is the source code for my blog. See also: https://github.com/ehotinger/ehot
 
 ## Deploying
 
-`./deploy.sh` (WSL) or `sudo bash deploy.sh` (Mac)
+- `sudo bash deploy.sh` (Mac)
+- `./deploy.sh` (WSL)

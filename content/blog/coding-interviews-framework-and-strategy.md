@@ -10,6 +10,8 @@ tags:
 categories:
 - interviews
 - dev
+
+slug: coding-interviews-framework-and-strategy
 ---
 
 # Coding Interviews: Framework and Strategy

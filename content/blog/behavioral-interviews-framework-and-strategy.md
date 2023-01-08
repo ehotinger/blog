@@ -16,12 +16,11 @@ slug: behavioral-interviews-framework-and-strategy
 
 # Behavioral Interviews: Framework and Strategy
 
-This post is the final framework and strategy for technical interviews. If you haven't already, b sure to check out my similar posts on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) and [Coding Interviews](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/) too.
+This post is the final framework and strategy for technical interviews. If you haven't already, be sure to check out my similar posts on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) and [Coding Interviews](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/) too.
 
 ## 1. The Framework
 
-Use the Situation, Task, Action, Result framework. Also known as [STAR](
-https://en.wikipedia.org/wiki/Situation,_task,_action,_result).
+Use the Situation, Task, Action, Result framework. Also known as [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result).
 
 1. **Situation:** The interviewer wants you to present a recent challenging situation in which you found yourself.
 2. **Task:** What were you required to achieve? The interviewer will be looking to see what you were trying to achieve from the situation.

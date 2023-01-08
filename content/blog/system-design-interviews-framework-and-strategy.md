@@ -1,5 +1,5 @@
 ---
-title: "System Design Interviews - Framework and Strategy"
+title: "System Design Interviews: Framework and Strategy"
 date: 2023-01-08T09:22:14-08:00
 draft: false
 
@@ -14,13 +14,15 @@ categories:
 slug: system-design-interviews-framework-and-strategy
 ---
 
-# System Design Interviews: A Framework and Strategy
+# System Design Interviews: Framework and Strategy
 
 System design interviews are often the most difficult technical interviews and can be daunting to tackle. They require a candidate to gather requirements, deal with ambiguity, communicate, and optimize their solution using all of their computer science knowledge. To make matters worse, these interviews are open-ended with hundreds of potential variations to achieve the desired end state of a system. How could anyone expect someone to design such a complex system in only an hour of time?
 
 Well, the good news is that nobody will expect you to completely design the entire system in only an hour of time. After all, at our jobs it often takes us weeks or even months of time to design complex distributed systems!
 
-The goal of this post is to provide you with a reliable strategy and framework for your system design interviews. The content is written and intended for interviewees. However, interviewers will find some aspects equally valuable. I also provide a rough calibration guide to be used in any system design interview so that you can evaluate your performance and others' performance with mock practice once you understand the framework and strategies.
+The goal of this post is to provide you with a reliable strategy and framework for your system design interviews. The content is written and intended for interviewees. However, interviewers will find some aspects equally valuable.
+
+At the end, I also provide a rough calibration guide to be used in any system design interview so that you can evaluate your performance and others' performance with mock practice once you understand the framework and strategies.
 
 ## The Framework
 
@@ -31,7 +33,7 @@ Every system design interview can be broken into four high-level steps:
 3. Design core components in detail.
 4. Scale the design, make it fully operational, and wrap up the interview.
 
-**Important:** After the first step and for each subsequent step, kindly ask your interviewer if it okay to move on to the next step or if they feel there is anything else important to discuss first. Between each step, they should tell you whether they want to continue discussion on a particular topic. For example, if you missed any key requirements or particular component in a high-level design, they should tell you that they want to discuss them in some detail first before you proceed. This will help you manage their expectations and ensure that you work on the components that the interviewer feels are important to discuss. It's also easy to talk about a topic for too long or for not long enough, so this will help you spend the right amount of time on each topic.
+**Important:** After the first step and for each subsequent step, kindly ask your interviewer if it is okay to move on to the next step or if they feel there is anything else important to discuss first. Between each step, they should tell you whether they want to continue discussion on a particular topic. For example, if you missed any key requirements or particular component in a high-level design, they should tell you that they want to discuss them in some detail first before you proceed. This will help you manage their expectations and ensure that you work on the components that the interviewer feels are important to discuss. It's also easy to talk about a topic for too long or for not long enough, so this will help you spend the right amount of time on each topic.
 
 ## 1. Outline use cases and constraints of the system. Define the product specification.
 
@@ -129,26 +131,26 @@ In general, for a 45-minute system design interview, expect to spend roughly the
 3. [10 - 20 minutes] Design core components in detail.
 4. [5 - 10 minutes] Scale the design, make it fully operational, and wrap up the interview.
 
-If you are ever unsure how long you will get for your system design interview, simply ask your recruiter how long you should expect to spend in the session, and how long you will get to talk about system design. Most interviews are 60 minutes so you will spend anywhere from 45-50 minutes on system design and 10-15 minutes on behavioral questions, team fit, and introductions.
+If you are ever unsure how long you will get for your system design interview, simply ask your recruiter how long you should expect to spend in the session, and how long you will get to talk about system design. Most interviews are 60 minutes so you will spend anywhere from 45-50 minutes on system design and 10-15 minutes on behavioral questions, team fit, and introductions. If the time allocation for a particular company is different, adjust your strategy ahead of time and practice it!
 
 ## 6. Calibration Guide
 
-Below is a calibration guideline which applies to the majority of system design interviews. Ask yourself whether you accomplished all of them:
+Below is a calibration guideline which applies to the majority of system design interviews. Fill in the brackets with a checkmark and ask yourself whether you accomplished all of them. If you didn't, try to correct it going forward.
 
-- Removes ambiguity in the problem statement
-- Drives the conversation
-- Can articulate shortcomings and tradeoffs with different designs
-- Translates requirements into user stories
-- APIs cover requirements
-- Sufficient HTTP knowledge/front end depth
-- Infrastructure knowledge
-- Familiarity with load balancers and fleets (no single points of failure)
-- Familiarity with data layer
-- The system is operational; logging/tracing/monitoring
-- The system has proper data models
-- The system can scale (i.e., sharding, partitioning, or other mechanisms)
-- The system meets latency and availability requirements, or other SLAs
-- The system meets all initial requirements for the product specification
+- [] Removes ambiguity in the problem statement
+- [] Drives the conversation
+- [] Can articulate shortcomings and tradeoffs with different designs
+- [] Translates requirements into user stories
+- [] APIs cover requirements
+- [] Sufficient HTTP knowledge/front end depth
+- [] Infrastructure knowledge
+- [] Familiarity with load balancers and fleets (no single points of failure)
+- [] Familiarity with data layer
+- [] The system is operational; logging/tracing/monitoring
+- [] The system has proper data models
+- [] The system can scale (i.e., sharding, partitioning, or other mechanisms)
+- [] The system meets latency and availability requirements, or other SLAs
+- [] The system meets all initial requirements for the product specification
 
 ## 7. Closing Thoughts and Final Tips
 

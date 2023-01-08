@@ -85,4 +85,4 @@ Below is a calibration guideline which applies to all coding interviews. Fill in
     - https://github.com/ehotinger/hackerrank
     - https://github.com/ehotinger/leetcode
 
-Thanks for reading this far. Be sure to check out my similar post on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) too. Best of luck in your interviews!
+Thanks for reading this far. Be sure to check out my similar posts on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) and [Behavioral Interviews](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/) too. Best of luck in your interviews!

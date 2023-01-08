@@ -114,7 +114,7 @@ Here are some example questions and talking points:
 5. If applicable, add in content delivery networks (CDNs)
 6. Ensure your storage layers are optimized. For example, are you using a proper object store if it makes sense for images or videos?
 
-## 5. Time Managemnet
+## 5. Time Management
 
 Time management is one of the trickiest components of system design interviews. Some questions will be extremely vague and require you to gather a lot of requirements, whereas other systems may have most of the requirements given to you upfront. Some interviewers may want to spend more time designing a particular component whereas others may want to spend more time on the high-level architecture. 
 

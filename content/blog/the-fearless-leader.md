@@ -4,10 +4,10 @@ date: 2020-09-21T21:43:07-07:00
 draft: false
 
 tags:
-- meta
+- leadership
 
 categories:
-- meta
+- leadership
 
 slug: the-fearless-leader
 ---

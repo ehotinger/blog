@@ -5,11 +5,11 @@ draft: false
 
 categories:
 - dev
-- meta
+- leadership
 
 tags:
 - dev
-- meta
+- leadership
 
 ---
 

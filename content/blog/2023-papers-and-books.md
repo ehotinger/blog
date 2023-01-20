@@ -1,5 +1,5 @@
 ---
-title: "2023 Papers"
+title: "2023 Papers and Books"
 date: 2023-01-02T10:24:56-08:00
 draft: false
 
@@ -9,9 +9,11 @@ tags:
 categories:
 - books
 
+slug: 2023-papers-and-books
+
 ---
 
-Below is a list of papers I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
+Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
 ## Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)

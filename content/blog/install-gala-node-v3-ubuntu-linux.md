@@ -2,6 +2,14 @@
 title: "Install Gala Node V3 on Ubuntu Linux"
 date: 2023-01-29T15:01:03-08:00
 draft: false
+
+description: "Setting up a Gala Node V3 on Ubuntu Linux for AWS"
+tags:
+- dev
+
+categories:
+- dev
+
 ---
 
 These are the all scripts required to install [Gala Games](https://app.gala.games/) v3 nodes. It's a trimmed down version of the [main blog post](https://support.gala.games/posts/4612481-install-the-gala-node-software-on-ubuntu-linux).

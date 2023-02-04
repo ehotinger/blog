@@ -101,13 +101,10 @@ So, how do I feel about developer productivity after working on it the last few 
 14. Invest in oncall and operator tooling.
 
 ## Citations
-- [1] [Fleming W, Romas M, Dean B, and Rob L, "A Framework for the Effective Adoption of
-Software Development Methodologies"](https://dl.acm.org/doi/10.1145/1185448.1185493)
-- [2] [Davide F, Burak T, and Markku O, "On the Effects of Programming and Testing Skills on
-External Quality and Productivity in a Test-Driven
-Development Context"](https://dl.acm.org/doi/10.1145/2745802.2745826)
+- [1] [Fleming W, Romas M, Dean B, and Rob L, "A Framework for the Effective Adoption of Software Development Methodologies"](https://dl.acm.org/doi/10.1145/1185448.1185493)
+- [2] [Davide F, Burak T, and Markku O, "On the Effects of Programming and Testing Skills on External Quality and Productivity in a Test-Driven Development Context"](https://dl.acm.org/doi/10.1145/2745802.2745826)
 - [3] [Nicole F, Margaret-Anne S, Chandra M, Thomas Z, Brian H, and Jenna B, "The SPACE of developer productivity"](https://dl.acm.org/doi/10.1145/3453928)
-- [4] [Authors: Lan C, Emerson M, Mark C, Ciera J, Collin G, Andrea K, Nan Z, and Elizabeth K, "What improves developer productivity at google? code quality"](https://dl.acm.org/doi/10.1145/3540250.3558940)
+- [4] [Lan C, Emerson M, Mark C, Ciera J, Collin G, Andrea K, Nan Z, and Elizabeth K, "What improves developer productivity at google? code quality"](https://dl.acm.org/doi/10.1145/3540250.3558940)
 - [5] [Thomas Z, "Measuring Developer Productivity and the New Future of Work"](https://dl.acm.org/doi/10.1145/3511430.3511914)
 - [6] [Margaret-Anne S and Alexey Z, "Disrupting developer productivity one bot at a time"](https://dl.acm.org/doi/10.1145/2950290.2983989)
 - [7] [Terese B, Antonio M, and Jan B, "Technical debt cripples software developer productivity: a longitudinal study on developers' daily software development work"](https://dl.acm.org/doi/10.1145/3194164.3194178)

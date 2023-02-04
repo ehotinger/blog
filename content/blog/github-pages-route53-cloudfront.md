@@ -8,7 +8,7 @@ tags:
 
 categories:
 - AWS
-- dev
+- development
 
 slug: github-pages-aws-ssl
 ---

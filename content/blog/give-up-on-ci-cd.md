@@ -5,9 +5,13 @@ draft: false
 
 tags:
 - meta
+- software
+- integration
 
 categories:
+- software
 - meta
+- integration
 
 slug: give-up-on-ci-cd
 ---

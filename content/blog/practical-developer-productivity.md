@@ -4,12 +4,14 @@ date: 2023-02-04T10:49:13-08:00
 draft: false
 
 tags:
-- dev
+- development
 - productivity
+- software
 
 categories:
-- dev
+- development
 - productivity
+- software
 
 ---
 

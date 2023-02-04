@@ -5,11 +5,15 @@ draft: false
 
 tags:
 - interviews
-- dev
+- development
+- software
+
 
 categories:
 - interviews
-- dev
+- development
+- software
+
 
 slug: coding-interviews-framework-and-strategy
 ---

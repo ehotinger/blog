@@ -3,12 +3,15 @@ title: "Windows Subsystem for Linux Installation"
 date: 2021-08-14T12:14:50-07:00
 draft: false
 tags:
-- dev
+- development
 - windows
+- software
 
 categories:
-- dev
+- development
 - windows
+- software
+
 
 slug: windows-subsystem-for-linux-installation
 ---

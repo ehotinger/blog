@@ -4,11 +4,11 @@ date: 2023-01-09T15:14:14-08:00
 draft: false
 
 tags:
-- dev
+- development
 - leadership
 
 categories:
-- dev
+- development
 - leadership
 
 ---

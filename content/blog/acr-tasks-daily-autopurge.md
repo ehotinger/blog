@@ -6,9 +6,12 @@ tags:
 - acr
 - docker
 - Azure
+- development
+- software
 
 categories:
-- dev
+- development
+- software
 - acr
 - docker
 - Azure

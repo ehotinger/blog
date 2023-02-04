@@ -2,8 +2,14 @@
 title: "The Developer's Outlook Rules"
 date: 2019-08-31T14:30:43-07:00
 draft: false
+
 categories:
-- dev
+- development
+- software
+
+tags:
+- software
+- development
 
 slug: the-developers-outlook-rules
 ---

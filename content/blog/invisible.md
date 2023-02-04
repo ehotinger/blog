@@ -4,12 +4,14 @@ date: 2021-07-06T23:58:35-07:00
 draft: false
 
 categories:
-- dev
+- development
 - leadership
+- software
 
 tags:
-- dev
+- development
 - leadership
+- software
 
 ---
 

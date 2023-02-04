@@ -1,6 +1,8 @@
-# blog
+# Eric Hotinger's Blog
 
-This is the source code for my blog. See also: https://github.com/ehotinger/ehotinger.github.io
+This is the source code for my blog, which is hosted at https://ehotinger.com/
+
+These are the markdown files that use Hugo, and the rendered version is at: https://github.com/ehotinger/ehotinger.github.io
 
 ## Installing
 
@@ -22,3 +24,13 @@ This is the source code for my blog. See also: https://github.com/ehotinger/ehot
 
 - `sudo bash deploy.sh` (Mac)
 - `./deploy.sh` (WSL)
+
+## Tags and Categories
+
+- software
+- development
+- leadership
+- Azure
+- interviews
+- AWS
+- meta

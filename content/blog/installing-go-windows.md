@@ -4,11 +4,13 @@ date: 2018-07-07T00:00:00-07:00
 author: "Eric Hotinger"
 description: "Setting up a Windows environment for Golang (including Make)"
 tags:
-- dev
+- development
 - Go
+- software
 
 categories:
-- dev
+- development
+- software
 
 slug: installing-go-windows
 ---

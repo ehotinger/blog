@@ -4,10 +4,12 @@ date: 2023-01-19T13:26:55-08:00
 draft: false
 
 tags:
-- dev
+- development
+- software
 
 categories:
-- dev
+- development
+- software
 
 slug: operating-in-grey-modes
 ---

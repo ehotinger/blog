@@ -4,10 +4,14 @@ date: 2023-01-17T07:45:40-08:00
 draft: false
 
 tags:
-- dev
+- development
+- software
+
 
 categories:
-- dev
+- development
+- software
+
 
 slug: the-most-important-software-documentation
 ---

@@ -5,11 +5,13 @@ draft: false
 
 tags:
 - interviews
-- dev
+- development
+- software
 
 categories:
 - interviews
-- dev
+- development
+- software
 
 slug: behavioral-interviews-framework-and-strategy
 ---

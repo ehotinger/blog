@@ -5,10 +5,12 @@ draft: false
 
 description: "Setting up a Gala Node V3 on Ubuntu Linux for AWS"
 tags:
-- dev
+- development
+- software
 
 categories:
-- dev
+- development
+- software
 
 ---
 

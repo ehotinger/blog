@@ -2,8 +2,16 @@
 title: "The Best Developer I Have Ever Met Was the Worst"
 date: 2020-08-25T21:33:08-07:00
 draft: false
+
 categories:
-- dev
+- software
+- development
+- leadership
+
+tags:
+- software
+- development
+- leadership
 
 slug: the-best-dev-i-met-was-the-worst
 ---

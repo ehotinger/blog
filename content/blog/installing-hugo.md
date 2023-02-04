@@ -4,10 +4,12 @@ date: 2018-05-31T12:02:45-07:00
 author: "Eric Hotinger"
 description: "The two minute guide to setting up this website"
 tags:
-- dev
+- development
+- software
 
 categories:
-- dev
+- development
+- software
 
 slug: installing-hugo
 ---

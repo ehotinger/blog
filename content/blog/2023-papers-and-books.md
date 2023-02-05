@@ -29,3 +29,8 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [Margaret-Anne S and Alexey Z, "Disrupting developer productivity one bot at a time"](https://dl.acm.org/doi/10.1145/2950290.2983989)
 - [Terese B, Antonio M, and Jan B, "Technical debt cripples software developer productivity: a longitudinal study on developers' daily software development work"](https://dl.acm.org/doi/10.1145/3194164.3194178)
 - [Michaela G, Margaret-Anne S, and Abi N, "An Actionable Framework for Understanding and Improving Developer Experience"](http://paper.getdx.com/)
+
+## Meta
+- [Nischal S, Colton B, Titus B, and Chris P, "Here we go again:
+why is it difficult for developers to learn another programming
+language?"](https://dl.acm.org/doi/10.1145/3511062)

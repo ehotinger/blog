@@ -22,8 +22,16 @@ weight                 = -120
 identifier             = "blog"
 url                    = "/blog/"
 
+# An example of how to add another page.
+# [[menu.main]]
+# name                   = "Subscribe"
+# weight                 = -110
+# identifier             = "subscribe"
+# url                    = "/subscribe/"
+
 [params]
 include_rss            = true
+paginate               = 10
 faviconfile            = "img/favicon.ico"
 latestpostscount       = 10
 i18n_flags             = false

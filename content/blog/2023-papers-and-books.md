@@ -4,6 +4,8 @@ date: 2023-01-02T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Discover the latest research on software development with this curated list of papers and books. From software patterns to developer productivity and programming languages, this blog provides an overview of the most relevant and cutting-edge research in the field."
+
 tags:
 - books
 

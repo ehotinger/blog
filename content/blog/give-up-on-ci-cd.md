@@ -4,6 +4,8 @@ date: 2020-09-08T22:20:29-07:00
 draft: false
 author: "Eric Hotinger"
 
+description: "In this blog, the author challenges the conventional wisdom that true CI/CD is necessary for software businesses. They argue that it is impractical and unrealistic to expect immediate production deployment for every commit and can result in more problems than benefits. Instead, the author suggests a more measured approach to software deployment, one that fits the needs of the business and development team. The author highlights the challenges of true CI/CD for large systems and the importance of not breaking customers. They emphasize the need to strike a balance between fast deployment and stability, and recommend using CI/CD for QA/integration staging environments, but not for production. The blog is a thought-provoking read for software professionals who want to rethink their approach to software deployment."
+
 tags:
 - meta
 - software

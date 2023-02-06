@@ -4,6 +4,8 @@ date: 2023-02-05T13:01:11-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Transform your personal Hugo blog into a powerful newsletter platform with this simple guide. Learn how to automate your email sends using TinyLetter, Zapier, and Hugo in just 10 minutes. The setup is free until you reach over 5000 subscribers, so start today and discover how you can grow your blog's success. Follow the easy steps to set up your TinyLetter account, Zapier trigger, and email action for a fully automated newsletter. Test and enable your Zap, and enjoy the benefits of having a professional newsletter without the hassle. Don't forget to subscribe to the author's TinyLetter: https://tinyletter.com/ehotinger."
+
 categories:
 - development
 - software

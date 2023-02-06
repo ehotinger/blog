@@ -2,7 +2,8 @@
 title: "Installing Go on Windows (including Make)"
 date: 2018-07-07T00:00:00-07:00
 author: "Eric Hotinger"
-description: "Setting up a Windows environment for Golang (including Make)"
+description: "Get your Go environment set up on Windows easily with this brief guide! Discover the simplest way to get your Makefiles working cross-platform by changing shells. Follow the steps outlined in this guide to avoid CREATE PROCESS(NULL, ... errors. Learn how to install Go using the default installer and add the Make for Windows and Cygwin installations to your $PATH. Finally, find out how to run your Makefiles from Cygwin, without any hassle. Start setting up Go on Windows today!"
+
 tags:
 - development
 - Go

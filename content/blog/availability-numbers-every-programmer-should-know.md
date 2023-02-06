@@ -4,6 +4,8 @@ date: 2023-01-08T07:22:14-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Get familiar with the availability numbers that matter to programmers. Learn what high availability (HA) systems mean, how they're measured in percentage, and what the SLAs stand for. Memorize the acceptable downtime to meet different SLAs with our easy-to-remember table. Get a quick understanding of 4 9s of availability, which means 4 minutes of downtime per month, and work your way up to the highest levels of availability. Calculate other availability numbers with our recommended calculator, Uptime.is. Stay informed and on top of your game with our comprehensive guide on availability numbers every programmer should know."
+
 tags:
 - availability
 - interviews

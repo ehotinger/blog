@@ -4,6 +4,8 @@ date: 2019-07-16T14:15:54-07:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Discover the limitless potential of Azure Container Registry Tasks, the innovative service from Microsoft. With a wealth of new features, including automatic garbage collection of unused tags, images, and manifests, this service is a game-changer. Learn about multi-step tasks, complex workflows, and how you can run any arbitrary code as a directed acyclic graph. Explore the world of possibilities with ACR Tasks and make your containers work for you. Check out the GitHub repository for examples of yaml files that can build containers, run tests, and much more."
+
 tags:
 - acr
 - docker

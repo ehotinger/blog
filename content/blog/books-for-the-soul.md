@@ -4,6 +4,8 @@ date: 2021-08-14T18:12:03-07:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Unlock your full potential with the best books and experiences recommended by a seasoned tech expert. Discover the key to unlocking your weaknesses, accelerating your growth in areas you're amazing at, and making incremental progress every day. Immerse yourself in computer science by reading source code, white papers, and contributing to core projects. Improve your coding skills with books on interviewing, code quality, niche topics, and more. Get a better understanding of time with books on neuroscience and your mindset with books on psychology. Enhance your life and reach new heights with this stack-ranked list of books."
+
 tags:
 - books
 

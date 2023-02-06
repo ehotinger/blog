@@ -4,6 +4,8 @@ date: 2019-08-31T00:05:35-07:00
 draft: false
 author: "Eric Hotinger"
 
+description: "This blog outlines the step-by-step process of setting up a blog using GitHub Pages and AWS services for a custom domain and SSL certification for only $12 per year. The author explains how to register the domain with Amazon Route 53, create a public certificate with AWS Certificate Manager (ACM), set up CloudFront for redirecting HTTP to HTTPS, modify Route 53 records, add custom domain and enforce HTTPS in GitHub, and finalize the process. The blog provides helpful links to the AWS services and walks you through each stage of the setup with clear instructions. Get your blog up and running with this comprehensive guide!"
+
 tags:
 - AWS
 

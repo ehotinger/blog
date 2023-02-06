@@ -4,6 +4,8 @@ date: 2022-12-30T10:00:34-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Discover the best books of 2022 as one reader reflects on the year's standout reads. From computer science to fitness, leadership to psychology, and fiction to non-fiction, find out which books made the cut and earned a recommendation. Read about the power of our mindset and how it can shape reality in The Expectation Effect: How Your Mindset Can Change Your World. Explore the recommended books in each category and take a dive into a new world of knowledge and storytelling today!"
+
 tags:
 - books
 

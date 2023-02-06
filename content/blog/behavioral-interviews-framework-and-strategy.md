@@ -4,6 +4,8 @@ date: 2023-01-08T14:13:36-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Maximize your chances of success in a behavioral interview with this comprehensive guide on Behavioral Interviews: Framework and Strategy. Discover the Situation, Task, Action, Result (STAR) framework and get tips on how to prepare for impactful responses. Learn about the dimensions that show your overall depth and exposure to situations for higher-level roles. Read inspiring examples of questions and find out how to make them relevant to the company you're interviewing for. Check out this post to ace your behavioral interview!"
+
 tags:
 - interviews
 - development

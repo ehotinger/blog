@@ -4,6 +4,8 @@ date: 2023-02-04T20:24:21-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "A blog about how experienced programmers approach learning a new programming language. Based on a large sample size of experienced developers, this blog highlights the key takeaways and trends from the study. The main points discussed include self-taught learning, the use of just-in-time learning, the challenge of mapping with previous languages, the need for mind shifts when switching paradigms, the difficulty of searching for the right terminology and code examples, and the necessary and challenging process of retooling."
+
 tags:
 - development
 - productivity

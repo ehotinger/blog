@@ -4,6 +4,8 @@ date: 2023-01-09T15:14:14-08:00
 draft: false
 author: "Eric Hotinger"
 
+description: "Learn the art of effective communication as a junior engineer. This post provides valuable advice on when and how to ask questions and how senior engineers can provide helpful answers. Discover the importance of research, choosing the right audience, and making questions legible. Find out how to get the most out of answers, by focusing on future problem solving, and how senior engineers can teach, lead with empathy, and cultivate a safe environment for asking questions. Get the big picture and architecture insight and maximize your growth. Read this post now to be confident, grow as an engineer, and become a future leader in answering questions."
+
 tags:
 - development
 - leadership

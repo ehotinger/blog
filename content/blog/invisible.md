@@ -14,6 +14,8 @@ tags:
 - leadership
 - software
 
+description: "Discover the magic of the invisible compass. After six months of hard work and commitment, our team has created a young yet blissful product that will change the way you navigate your career. This yet-to-be-announced product offers a glimmer of change and will leave you mesmerized. Our focus is not just on the product itself, but on empowering others to success through brilliant ideas and instilling the belief in their own capabilities. Don't miss out on this chance to shape your career with the invisible compass and join us on our journey to create organizational change without burning out. Stay tuned for the official announcement later this year."
+
 ---
 
 I've created something magical: an invisible compass. The product is not astonishing; it's fragile and young, yet blissful.

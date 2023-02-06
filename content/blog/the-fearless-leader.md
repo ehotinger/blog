@@ -2,6 +2,9 @@
 title: "The Fearless Leader"
 date: 2020-09-21T21:43:07-07:00
 draft: false
+author: "Eric Hotinger"
+
+description: "Inspire change and lead by example in difficult times with selflessness and courage. Discover the power of putting others first and transforming negative experiences into positive actions. Read this blog to learn how to become a fearless leader and bring light to those around you."
 
 tags:
 - leadership

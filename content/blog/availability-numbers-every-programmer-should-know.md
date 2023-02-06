@@ -2,6 +2,7 @@
 title: "Availability Numbers Every Programmer Should Know"
 date: 2023-01-08T07:22:14-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - availability

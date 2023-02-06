@@ -2,6 +2,7 @@
 title: "Behavioral Interviews: Framework and Strategy"
 date: 2023-01-08T14:13:36-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - interviews

@@ -2,6 +2,7 @@
 title: "How Do Experienced Developers Learn New Programming Languages"
 date: 2023-02-04T20:24:21-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - development

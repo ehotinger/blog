@@ -2,6 +2,7 @@
 title: "Books for the soul"
 date: 2021-08-14T18:12:03-07:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - books

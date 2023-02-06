@@ -2,6 +2,7 @@
 title: "The Developer's Outlook Rules"
 date: 2019-08-31T14:30:43-07:00
 draft: false
+author: "Eric Hotinger"
 
 categories:
 - development
@@ -10,6 +11,12 @@ categories:
 tags:
 - software
 - development
+- email management
+- outlook
+- organization
+- productivity
+
+description: "Boost your email productivity with a simple folder organization system. Discover the benefits of separating your emails into To, CC, and Other folders. Learn how to prioritize important emails and keep your inbox organized. Discover how to add email filters for your specific needs and make email management a breeze. Follow the steps outlined in this blog to improve your email efficiency and reduce stress today."
 
 slug: the-developers-outlook-rules
 ---

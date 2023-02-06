@@ -2,6 +2,7 @@
 title: "The Best Developer I Have Ever Met Was the Worst"
 date: 2020-08-25T21:33:08-07:00
 draft: false
+author: "Eric Hotinger"
 
 categories:
 - software
@@ -12,6 +13,8 @@ tags:
 - software
 - development
 - leadership
+
+description: "This blog describes the author's experience working with a highly skilled developer who, despite their technical prowess, ultimately led to the failure of a complex service they were building. Despite the engineer's ability to provide technical solutions, they neglected user experience and made it difficult for others on the team to contribute effectively. The author reflects on the lessons learned and the importance of considering both technical and user-focused aspects in software development, as well as the dangers of relying too heavily on one individual. The story highlights the importance of building a well-rounded, inclusive team in software development to ensure success."
 
 slug: the-best-dev-i-met-was-the-worst
 ---

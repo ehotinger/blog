@@ -2,7 +2,8 @@
 title: "Bypassing the character limit displayed when debugging with Delve and VSCode"
 date: 2019-02-25T00:00:00-07:00
 author: "Eric Hotinger"
-description: "Setting up a Windows environment for Golang (including Make)"
+description: "This blog post provides a guide to customize your workspace or user settings in Visual Studio Code for debugging Go applications with Delve. By default, values of long variables are truncated to 64 characters with ...+7 more displayed. To avoid this limitation, the maxStringLen setting can be adjusted in the go.delveConfig JSON. This configuration can be found in the user or workspace settings by using the keyboard shortcut CTRL + SHIFT + P and searching for settings. Be mindful that tweaking the settings can affect performance, but this guide and linked resources provide information on the various options available for configuration."
+
 tags:
 - development
 - Go

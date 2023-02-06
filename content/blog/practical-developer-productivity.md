@@ -2,6 +2,7 @@
 title: "Practical Developer Productivity"
 date: 2023-02-04T10:49:13-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - development
@@ -12,6 +13,8 @@ categories:
 - development
 - productivity
 - software
+
+description: "This blog is about the practical aspects of developer productivity. The author reflects on their own journey in this field, as well as comparing the latest literature on the topic. The definition of productivity varies greatly depending on the perspective, as it involves not only individual performance but also the overall team and product performance. The author introduces the SPACE framework which includes satisfaction and well-being, performance, activity, communication and collaboration, and efficiency and flow. The blog also covers the relationship between unit tests and productivity, and the impact of technical debt on working time. The author emphasizes that the results are dependent on the specific organization, product, and project being measured and should not be considered as a general observation."
 
 ---
 

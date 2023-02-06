@@ -2,6 +2,7 @@
 title: "GitHub Pages, Route 53, Cloud Front, and SSL"
 date: 2019-08-31T00:05:35-07:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - AWS

@@ -2,6 +2,7 @@
 title: "Coding Interviews: Framework and Strategy"
 date: 2023-01-08T12:22:00-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - interviews

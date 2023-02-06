@@ -2,6 +2,7 @@
 title: "How to Ask and Answer Questions Effectively"
 date: 2023-01-09T15:14:14-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - development

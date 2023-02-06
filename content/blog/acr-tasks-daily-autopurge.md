@@ -2,6 +2,8 @@
 title: "Azure Container Registry Tasks Daily Autopurge"
 date: 2019-07-16T14:15:54-07:00
 draft: false
+author: "Eric Hotinger"
+
 tags:
 - acr
 - docker

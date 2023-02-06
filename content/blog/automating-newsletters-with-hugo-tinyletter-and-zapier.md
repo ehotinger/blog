@@ -2,6 +2,7 @@
 title: "Automating Newsletters With Hugo, TinyLetter, and Zapier"
 date: 2023-02-05T13:01:11-08:00
 draft: false
+author: "Eric Hotinger"
 
 categories:
 - development

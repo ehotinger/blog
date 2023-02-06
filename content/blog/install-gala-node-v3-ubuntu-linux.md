@@ -2,6 +2,7 @@
 title: "Install Gala Node V3 on Ubuntu Linux"
 date: 2023-01-29T15:01:03-08:00
 draft: false
+author: "Eric Hotinger"
 
 description: "Setting up a Gala Node V3 on Ubuntu Linux for AWS"
 tags:

@@ -2,6 +2,7 @@
 title: "2023 Papers and Books"
 date: 2023-01-02T10:24:56-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - books

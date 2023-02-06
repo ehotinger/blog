@@ -2,6 +2,7 @@
 title: "2022 Books"
 date: 2022-12-30T10:00:34-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - books

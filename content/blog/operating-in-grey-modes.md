@@ -2,6 +2,7 @@
 title: "Operating in Grey Modes"
 date: 2023-01-19T13:26:55-08:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - development
@@ -10,6 +11,8 @@ tags:
 categories:
 - development
 - software
+
+description: "Learn about the concept of grey modes in complex distributed systems and the importance of operating partially in case of hardware failures. Discover how circular buffers and logging can help prevent system crashes in Docker. Explore the pros and cons of operating in a grey mode and how to make informed architectural decisions. Get tips and insights on how to optimize your system's health and keep your customers happy."
 
 slug: operating-in-grey-modes
 ---

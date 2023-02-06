@@ -2,6 +2,7 @@
 title: "Give up on CI/CD"
 date: 2020-09-08T22:20:29-07:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - meta

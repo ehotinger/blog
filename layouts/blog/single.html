@@ -19,11 +19,27 @@
                     {{ end }}
                 </div>
             </div>
+
             <div class="markdown">
                 {{ .Content }}
-                <p>If you enjoyed this post, please <a href="https://tinyletter.com/ehotinger">click here to subscribe via my newsletter.</a></p>
+                <hr>
+                <div class="next-post">
+                    {{ if .NextPage }}
+                    <strong>Next Post:</strong> <a class="link-reverse" href="{{ .NextPage.Permalink }}?ref=footer">{{ .NextPage.Title}}</a>
+                    {{ end }}
+                </div>
+                
+                <div class="previous-post">
+                    {{ if .PrevPage }}
+                    <strong>Previous Post:</strong> <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title}}</a>
+                    {{ end }}
+                </div>
 
+                <hr>
+                
+                <div class="subscribe"><strong><a href="https://tinyletter.com/ehotinger">Click here to subscribe to new posts via my newsletter!</a></strong></div>
                 <br>
+
                 {{ if .Params.tags }}
                   <div class="tags">
                     <strong>Tags:</strong>

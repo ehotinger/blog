@@ -1,8 +1,8 @@
 ---
-title: "Installing Hugo"
+title: "Making a Github Pages Hugo Blog"
 date: 2018-05-31T12:02:45-07:00
 author: "Eric Hotinger"
-description: "The two minute guide to setting up this website"
+description: "Get started with Hugo and GitHub Pages with this quick guide. This article walks you through the process of setting up Hugo with GitHub Pages in under 15 minutes. Follow the step-by-step instructions to create two GitHub repositories, install Hugo, select a theme, create a new post, and deploy your website. This article also includes tips on linking your repositories and using a bash script for automatic deployment. Learn more about Hugo front matter and the metadata options available for individual content. Start building your blog today!"
 tags:
 - development
 - software
@@ -11,7 +11,7 @@ categories:
 - development
 - software
 
-slug: installing-hugo
+slug: making-a-github-pages-hugo-blog
 ---
 
 This is a quick-start guide to setting up Hugo with [GitHub pages](https://pages.github.com), since it took too much effort to find the full instructions anywhere else. It should hopefully take you ~15 minutes to complete the entire thing.

@@ -1,8 +1,12 @@
 # Eric Hotinger's Blog
 
-This is the source code for my blog, which is hosted at https://ehotinger.com/
+This is the source code for my blog, which is hosted at: https://ehotinger.com/
 
 These are the markdown files that use Hugo, and the rendered version is at: https://github.com/ehotinger/ehotinger.github.io
+
+Check out these blog posts for how the architecture works end-to-end. The only thing that I pay for is the DNS, and the rest is free!
+- https://ehotinger.com/blog/github-pages-aws-ssl/
+- https://ehotinger.com/blog/making-a-github-pages-hugo-blog/
 
 ## Installing
 

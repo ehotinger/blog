@@ -31,9 +31,9 @@ url                    = "/blog/"
 
 [params]
 include_rss            = true
-paginate               = 10
+paginate               = 25
 faviconfile            = "img/favicon.ico"
-latestpostscount       = 10
+latestpostscount       = 25
 i18n_flags             = false
 author                 = "Eric Hotinger"
 cachebuster            = true

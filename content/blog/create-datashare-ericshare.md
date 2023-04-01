@@ -53,6 +53,6 @@ Within the same year, we launched [Data Sharing across accounts](https://aws.ama
 
 Several years later, I was watching a developer do a demo for a new feature in this area and to my surprise, they were using a datashare named `ericshare` in the demo. At the end, I was joking around and asked why they are using a datashare named that?!
 
-They responded back to me with, "oh, ericshares is very popular as a name, because it is in the developer guide." I was floored, and queried to see whether this was true. To my surprise, there were hundreds of `ericshare`s that were created by many people over several years of time because of this small little guide!
+They responded back to me with, "oh, ericshare is our most popular datashare name, because it is in the developer guide." I was floored, and queried to see whether this was true. To my surprise, there were hundreds of `ericshare`s that were created by many people over several years of time because of this small guide!
 
 This experience was hilarious and humbling. It made me remember that sometimes, the little things we do can affect more people than we ever imagine. And sometimes, it's easy to think that small gestures like this go unnoticed. However, you can just as easily spur a chain reaction that affects hundreds, thousands, and even millions of people with subtle actions and words.

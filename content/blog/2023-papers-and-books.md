@@ -4,13 +4,19 @@ date: 2023-01-02T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "Discover the latest research on software development with this curated list of papers and books. From software patterns to developer productivity and programming languages, this blog provides an overview of the most relevant and cutting-edge research in the field."
+description: "A collection of some of the latest articles, blogs, books, and papers that I've read."
 
 tags:
 - books
+- blogs
+- papers
+- academia
 
 categories:
 - books
+- blogs
+- papers
+- academia
 
 slug: 2023-papers-and-books
 
@@ -35,3 +41,9 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 ## Programming Languages
 - [Nischal S, Colton B, Titus B, and Chris P, "Here we go again: why is it difficult for developers to learn another programming language?"](https://dl.acm.org/doi/10.1145/3511062)
+
+## Blogs
+
+- AWS
+    - Lambda
+        - https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/

@@ -22,6 +22,8 @@ slug: 2023-papers-and-books
 
 ---
 
+# 2023 Papers & Books
+
 Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
 ## Software Patterns

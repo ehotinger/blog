@@ -11,6 +11,7 @@ tags:
 - reactive event streams
 - aws
 - serverless computing
+- amazon
 
 categories:
 - lambda
@@ -18,6 +19,8 @@ categories:
 - reactive event streams
 - aws
 - serverless computing
+- amazon
+
 ---
 
 # AWS Lambda Response Streaming

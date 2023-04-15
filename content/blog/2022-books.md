@@ -14,6 +14,8 @@ categories:
 
 ---
 
+# 2022 Papers & Books
+
 As 2022 comes to a close, I wanted to reflect on some of the books I've had the opportunity to read this year. While I've enjoyed all of the books I've read, there are a few that stand out as particularly noteworthy.
 
 [The Expectation Effect: How Your Mindset Can Change Your World](https://www.amazon.com/Expectation-Effect-Mindset-Change-World/dp/B094DWPMQB) was, hands down, the best book I read this year. This book delves into the power of our mindset and how it can shape our reality.

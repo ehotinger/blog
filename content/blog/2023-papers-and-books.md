@@ -26,6 +26,9 @@ slug: 2023-papers-and-books
 
 Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
+## Books
+- [Outlive: The Science and Art of Longevity by Peter Attia](https://www.amazon.ca/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+
 ## Software Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
     - Written in 1986! Main thought is that it's difficult to find a magnitude improvement in the software development lifecycle. Reasons include the formal complexity around the specification of a program and state transitions. It's interesting to look back at the author's viewpoints of high level language design such as object-oriented programming and other technologies like Artificial Intelligence from nearly 40 years ago.
@@ -49,3 +52,5 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - AWS
     - Lambda
         - https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/
+    - CodeWhisperer
+        - https://aws.amazon.com/codewhisperer/

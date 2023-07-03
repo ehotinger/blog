@@ -28,6 +28,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 ## Books
 - [Outlive: The Science and Art of Longevity by Peter Attia](https://www.amazon.ca/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+- [The Little Book of Common Sense Investing](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
 
 ## Software Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)

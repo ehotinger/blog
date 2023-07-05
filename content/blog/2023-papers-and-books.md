@@ -19,7 +19,6 @@ categories:
 - academia
 
 slug: 2023-papers-and-books
-
 ---
 
 # 2023 Papers & Books

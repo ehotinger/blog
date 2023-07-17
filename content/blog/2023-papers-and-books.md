@@ -27,7 +27,9 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 ## Books
 - [Outlive: The Science and Art of Longevity by Peter Attia](https://www.amazon.ca/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
-- [The Little Book of Common Sense Investing](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
+- [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
+- [Never Finished by David Goggins](https://www.amazon.com/Never-Finished-Unshackle-Your-Within/dp/1544534086)
+- [Die With Zero by Bill Perkins](https://www.amazon.com/Die-Zero-Getting-Your-Money/dp/0358099765)
 
 ## Software Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)

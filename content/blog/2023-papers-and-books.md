@@ -30,12 +30,18 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
 - [Never Finished by David Goggins](https://www.amazon.com/Never-Finished-Unshackle-Your-Within/dp/1544534086)
 - [Die With Zero by Bill Perkins](https://www.amazon.com/Die-Zero-Getting-Your-Money/dp/0358099765)
+- [How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
+- [Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122)
 
-## Software Patterns
+## Papers
+
+### Software Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
     - Written in 1986! Main thought is that it's difficult to find a magnitude improvement in the software development lifecycle. Reasons include the formal complexity around the specification of a program and state transitions. It's interesting to look back at the author's viewpoints of high level language design such as object-oriented programming and other technologies like Artificial Intelligence from nearly 40 years ago.
+- [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
+- [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
 
-## Developer Productivity
+### Developer Productivity
 
 - [Fleming W, Romas M, Dean B, and Rob L, "A Framework for the Effective Adoption of Software Development Methodologies"](https://dl.acm.org/doi/10.1145/1185448.1185493)
 - [Davide F, Burak T, and Markku O, "On the Effects of Programming and Testing Skills on External Quality and Productivity in a Test-Driven Development Context"](https://dl.acm.org/doi/10.1145/2745802.2745826)
@@ -46,7 +52,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [Terese B, Antonio M, and Jan B, "Technical debt cripples software developer productivity: a longitudinal study on developers' daily software development work"](https://dl.acm.org/doi/10.1145/3194164.3194178)
 - [Michaela G, Margaret-Anne S, and Abi N, "An Actionable Framework for Understanding and Improving Developer Experience"](http://paper.getdx.com/)
 
-## Programming Languages
+### Programming Languages
 - [Nischal S, Colton B, Titus B, and Chris P, "Here we go again: why is it difficult for developers to learn another programming language?"](https://dl.acm.org/doi/10.1145/3511062)
 
 ## Blogs

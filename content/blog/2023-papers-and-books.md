@@ -32,14 +32,19 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [Die With Zero by Bill Perkins](https://www.amazon.com/Die-Zero-Getting-Your-Money/dp/0358099765)
 - [How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122)
+- [The Way Out by by Alan Gordon, Alon Ziv](https://www.amazon.com/Way-Out-Revolutionary-Scientifically-Approach/dp/059308683X)
 
 ## Papers
 
-### Software Patterns
 - [No Silver Bullet — Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
     - Written in 1986! Main thought is that it's difficult to find a magnitude improvement in the software development lifecycle. Reasons include the formal complexity around the specification of a program and state transitions. It's interesting to look back at the author's viewpoints of high level language design such as object-oriented programming and other technologies like Artificial Intelligence from nearly 40 years ago.
 - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 - [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
+- [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+- [On-demand Container Loading in AWS Lambda](https://arxiv.org/abs/2305.13162)
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service
+](https://www.usenix.org/conference/atc22/presentation/elhemali)
+- [Elastic cloud services: scaling snowflake's control plane](https://dl.acm.org/doi/10.1145/3542929.3563483)
 
 ### Developer Productivity
 
@@ -57,8 +62,5 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 ## Blogs
 
-- AWS
-    - Lambda
-        - https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/
-    - CodeWhisperer
-        - https://aws.amazon.com/codewhisperer/
+- https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/
+- https://aws.amazon.com/codewhisperer/

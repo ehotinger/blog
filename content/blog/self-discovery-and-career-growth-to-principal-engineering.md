@@ -2,6 +2,7 @@
 title: "Self Discovery and Career Growth to Principal Engineering"
 date: 2023-11-12T17:09:37-08:00
 draft: false
+slug: "self-discovery-and-career-growth-to-principal-engineering"
 
 description: "Embark on a transformative journey from senior engineer to principal engineering roles. Learn the crucial phases—earning trust, leading impactful projects, and mastering delivery—for a seamless ascent in your engineering career. Discover the keys to self-discovery, effective strategy, and addressing the unique challenges on the path to becoming a Principal Engineer. Navigate through personalized insights on habits, mindset, and defining your unique journey in the dynamic world of software engineering."
 
@@ -52,3 +53,9 @@ If you have just one thing you can remember from this blog: remember that everyo
 Everyone’s going to have different problems, and the biggest problem you have is going to be personalized for you.
 
 For almost everyone, the biggest gaps between a senior engineer and PE are going to be related to habits and mindset. With the right habits and mindset, you can fill any technical gap quickly. That’s a part of our job and being technically fearless. By the time you’re approaching PE, the technical gaps you should already be able to close, or you should apply these shifts to get them. If you can’t fill in the technical gaps after fixing everything else, then you should just focus more on being an exceptional practitioner longer and optimizing that.
+
+## Posts in this Series
+This post is the *second* post in the series, be sure to check out the full series:
+1. [Introduction to Principal and Staff Engineering](https://ehotinger.com/blog/introduction-to-principal-and-staff-engineering)
+2. [Self Discovery and Career Growth to Principal Engineering](https://ehotinger.com/blog/self-discovery-and-career-growth-to-principal-engineering)
+3. [Optimizing Impact and the Realities of Principal Engineering](https://ehotinger.com/blog/optimizing-impact-and-the-realities-of-principal-engineering)

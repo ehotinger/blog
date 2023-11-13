@@ -1,5 +1,6 @@
 ---
 title: "Optimizing Impact and the Realities of Principal Engineering"
+slug: "optimizing-impact-and-the-realities-of-principal-engineering"
 date: 2023-11-12T17:12:26-08:00
 draft: false
 
@@ -81,3 +82,9 @@ Every L6 that was promoted to L7 that I’ve talked to has some story of sufferi
 
 10. Be yourself
     - Lastly, what I figured out the most is that you just need to be yourself. Past accomplishments and being you are what got you here so far. Once you become a PE, keep doing what you did because that's why you're a PE.
+
+## Posts in this Series
+This post is the *third* post in the series, be sure to check out the full series:
+1. [Introduction to Principal and Staff Engineering](https://ehotinger.com/blog/introduction-to-principal-and-staff-engineering)
+2. [Self Discovery and Career Growth to Principal Engineering](https://ehotinger.com/blog/self-discovery-and-career-growth-to-principal-engineering)
+3. [Optimizing Impact and the Realities of Principal Engineering](https://ehotinger.com/blog/optimizing-impact-and-the-realities-of-principal-engineering)

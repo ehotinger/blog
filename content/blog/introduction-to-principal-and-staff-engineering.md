@@ -1,5 +1,6 @@
 ---
-title: "The Path to Principal and Staff Engineering"
+title: "Introduction to Principal and Staff Engineering"
+slug: "introduction-to-principal-and-staff-engineering"
 date: 2023-11-12T12:50:06-08:00
 draft: false
 
@@ -104,3 +105,9 @@ Amazon principal engineers have a unique set of tenets which go beyond the stand
 - Accept it's about outcomes, not fame.
 - Align teams and leaders.
 - Amplify impact by aligning teams.
+
+## Posts in this Series
+This post is the *first* post in the series, be sure to check out the full series:
+1. [Introduction to Principal and Staff Engineering](https://ehotinger.com/blog/introduction-to-principal-and-staff-engineering)
+2. [Self Discovery and Career Growth to Principal Engineering](https://ehotinger.com/blog/self-discovery-and-career-growth-to-principal-engineering)
+3. [Optimizing Impact and the Realities of Principal Engineering](https://ehotinger.com/blog/optimizing-impact-and-the-realities-of-principal-engineering)

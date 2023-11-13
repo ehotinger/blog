@@ -53,35 +53,40 @@ Software Engineering is a marathon, not a sprint. So enjoy your time and go at t
 
 ## Realities of PEs and Advice to Future PEs
 
-1. Easy to feel completely alone
-    - It’s easy to feel completely alone in your journey. Sometimes you’ll be in spots where you’ll be the only person who has the vision and has faith that you’ll get it done. You cannot lose faith in yourself or the mission because the moment you do everyone around you will lose faith. Many times I’ve felt like I was carrying a torch in darkness, but eventually other lights in the night showed up with time.
-    - Sometimes, there will be nobody there to help you. You will become the person everyone else looks up to, and you have to learn how to push yourself
-Every L6 that was promoted to L7 that I’ve talked to has some story of suffering and tremendous personal life growth. Be fearless. 
+### Easy to feel completely alone
 
-2. Impossible to make everyone happy
-    - It’s impossible to make everyone happy, and you’ll spend way more time than you expected apologizing. This is a natural result of you sorting by impact and risk out of all the doors you walk through.
+It’s easy to feel completely alone in your journey. Sometimes you’ll be in spots where you’ll be the only person who has the vision and has faith that you’ll get it done. You cannot lose faith in yourself or the mission because the moment you do everyone around you will lose faith. Many times I’ve felt like I was carrying a torch in darkness, but eventually other lights in the night showed up with time.
 
-3. Must ruthlessly defend your time
-    - You must ruthlessly defend your time and use mechanisms like Office Hours or put commanders in place to scale. Otherwise, you won’t be happy and do the things you want to do too.
+Sometimes, there will be nobody there to help you. You will become the person everyone else looks up to, and you have to learn how to push yourself
+Every senior that was promoted to staff/principal that I’ve talked to has some story of suffering and tremendous personal life growth. Be fearless. 
 
-4. Easy to feel the world is falling apart (avoid constant threat detection via detachment).
-    - It’s easy to feel the world is falling apart, not because it is, but because you have more visibility to it than anyone else. You’re the first line of defense for the team and will naturally filter everything to them in defense of the community. You need to learn how to avoid constant threat detection and feeling like the world is on fire just because you’re constantly exposed to more stuff. This gets worse over time, not better, as you get exposed to more. Think of these moments like you have an airplane radar while you’re flying, you don’t want to hear beeps from all the bugs outside, only the big planes that are nearby.
+### Impossible to make everyone happy
 
-5. Accept & embrace failure
-    - Accept and embrace failure. We promote too early by design, and almost everyone fails. Almost everyone will have an interesting story about how they grew a ton. Ask them about it.
+It’s impossible to make everyone happy, and you’ll spend way more time than you expected apologizing. This is a natural result of you sorting by impact and risk out of all the doors you walk through.
 
-6. Cynicism & Empathy
-    - It’s easy to become a cynic. it's a really hard job with a lot of repetition. In a lot of 1:1s when you're mentoring people, you will explain things 50 times to 50 different people. I started to write down a lot of my generic advice on blogs and used them as "additional info" after talks a lot of the time. But it's all about perspective. And to them it may be the first time they've ever heard it. People may not remember your advice but they'll remember how you made them feel. People won't listen to your advice if you’re a jerk.
+### Ruthlessly defend your time
+You must ruthlessly defend your time and use mechanisms like Office Hours or put commanders in place to scale. Otherwise, you won’t be happy and do the things you want to do too.
 
-7. People may not remember your advice, but they’ll remember how it made them feel.
+### Easy to feel the world is falling apart (avoid constant threat detection via detachment).
+It’s easy to feel the world is falling apart, not because it is, but because you have more visibility to it than anyone else. You’re the first line of defense for the team and will naturally filter everything to them in defense of the community. You need to learn how to avoid constant threat detection and feeling like the world is on fire just because you’re constantly exposed to more stuff. This gets worse over time, not better, as you get exposed to more. Think of these moments like you have an airplane radar while you’re flying, you don’t want to hear beeps from all the bugs outside, only the big planes that are nearby.
 
-8. Imposter Syndrome
-    - Trust and respect the process once you are promoted. You are great.
-9. Seek out Patterns
-    - Seek out patterns across your team, then the organization, across AWS, and across the world. Each level of thought takes you further.
+### Accept & embrace failure
+Accept and embrace failure. We promote too early by design, and almost everyone fails. Almost everyone will have an interesting story about how they grew a ton. Ask them about it.
 
-10. Be yourself
-    - Lastly, what I figured out the most is that you just need to be yourself. Past accomplishments and being you are what got you here so far. Once you become a PE, keep doing what you did because that's why you're a PE.
+### Cynicism & Empathy
+It’s easy to become a cynic. it's a really hard job with a lot of repetition. In a lot of 1:1s when you're mentoring people, you will explain things 50 times to 50 different people. I started to write down a lot of my generic advice on blogs and used them as "additional info" after talks a lot of the time. But it's all about perspective. And to them it may be the first time they've ever heard it. People may not remember your advice but they'll remember how you made them feel. People won't listen to your advice if you’re a jerk.
+
+People may not remember your advice, but they’ll remember how it made them feel.
+
+### Imposter Syndrome
+Trust and respect the process once you are promoted. You are great.
+
+### Seek out Patterns
+
+Seek out patterns across your team, then the organization, across AWS, and across the world. Each level of thought takes you further.
+
+### Be yourself
+Lastly, what I figured out the most is that you just need to be yourself. Past accomplishments and being you are what got you here so far. Once you become a PE, keep doing what you did because that's why you're a PE.
 
 ## Posts in this Series
 This post is the *third* post in the series, be sure to check out the full series:

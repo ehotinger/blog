@@ -40,7 +40,7 @@ The below role overview lists some of the key responsibilities and differences b
 4. **Strategical** and sometimes tactical. Thinks about the **broader product, not just projects and tasks.**
 5. Defines **culture and standards for an entire organization.**
 6. Owns **organization-level architecture/product solutions.** Influences technology direction for organization. 
-7. Grows L6s into L7s.
+7. Grows seniors into principal/staff engineers.
 8. Advocates and represents the broader tech population
 9. Is an escalation path
 10. Balances business and technical constraints

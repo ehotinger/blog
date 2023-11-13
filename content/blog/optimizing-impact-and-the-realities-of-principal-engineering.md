@@ -85,6 +85,6 @@ Every L6 that was promoted to L7 that I’ve talked to has some story of sufferi
 
 ## Posts in this Series
 This post is the *third* post in the series, be sure to check out the full series:
-1. [Introduction to Principal and Staff Engineering](https://ehotinger.com/blog/introduction-to-principal-and-staff-engineering)
-2. [Self Discovery and Career Growth to Principal Engineering](https://ehotinger.com/blog/self-discovery-and-career-growth-to-principal-engineering)
-3. [Optimizing Impact and the Realities of Principal Engineering](https://ehotinger.com/blog/optimizing-impact-and-the-realities-of-principal-engineering)
+1. [Introduction to Principal and Staff Engineering](https://ehotinger.com/blog/introduction-to-principal-and-staff-engineering/)
+2. [Self Discovery and Career Growth to Principal Engineering](https://ehotinger.com/blog/self-discovery-and-career-growth-to-principal-engineering/)
+3. [Optimizing Impact and the Realities of Principal Engineering](https://ehotinger.com/blog/optimizing-impact-and-the-realities-of-principal-engineering/)

@@ -42,8 +42,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [Towards Modern Development of Cloud Applications](https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf)
 - [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
 - [On-demand Container Loading in AWS Lambda](https://arxiv.org/abs/2305.13162)
-- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service
-](https://www.usenix.org/conference/atc22/presentation/elhemali)
+- [Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/conference/atc22/presentation/elhemali)
 - [Elastic cloud services: scaling snowflake's control plane](https://dl.acm.org/doi/10.1145/3542929.3563483)
 
 ### Developer Productivity

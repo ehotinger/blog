@@ -96,6 +96,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [The Midnight Library: A Novel](https://www.amazon.com/The-Midnight-Library-A-Novel/dp/B085S8BSYS)
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6)
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-to-One-audiobook/dp/B00M284NY2)
+- [Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH)
 
 ## Papers
 - [* Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)

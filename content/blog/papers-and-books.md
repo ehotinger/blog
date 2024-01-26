@@ -18,7 +18,7 @@ categories:
 - papers
 - academia
 
-slug: 2024-papers-and-books
+slug: papers-and-books
 ---
 
 # 2024

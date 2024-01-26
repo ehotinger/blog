@@ -42,6 +42,9 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
 - [Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122)
 - [The Way Out by Alan Gordon, Alon Ziv](https://www.amazon.com/Way-Out-Revolutionary-Scientifically-Approach/dp/059308683X)
+- [Full Catastrophe Living by Jon Kabat-Zinn](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932)
+- [The Power Of Now by Eckhart Tolle](https://www.amazon.com/Power-Now-Eckhart-Tolle/dp/B0095GVWMA)
+- [Born a Crime: Stories from a South African Childhood by Trevor Noah](https://www.amazon.com/Born-Crime-Trevor-Noah-audiobook/dp/B01IW9TM5O)
 
 ## Papers
 

@@ -26,7 +26,8 @@ slug: papers-and-books
 ## Books
 
 - [Endurance by Alfred Lansing](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
-- [Ikigai: The Japanese Secret to a Long and Happy Life](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)
+- [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García, Francesc Miralles](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)
+- [Clearer, Closer, Better: How Successful People See the World by Emily Balcetis](https://www.amazon.com/Clearer-Closer-Better-Successful-People/dp/1524796468)
 
 ---
 

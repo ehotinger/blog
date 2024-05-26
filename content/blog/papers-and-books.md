@@ -1,10 +1,10 @@
 ---
-title: "Papers and Books"
-date: 2024-01-25T10:24:56-08:00
+title: "Exploring the Latest Papers, Books, and Blogs for Software Developers"
+date: 2024-05-26T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "A collection of some of the latest articles, blogs, books, and papers that I've read"
+description: "Discover the latest must-read papers, books, and blog posts curated for software developers. Stay ahead of the curve with this comprehensive collection"
 
 tags:
 - books
@@ -18,10 +18,10 @@ categories:
 - papers
 - academia
 
-slug: papers-and-books
+slug: software-developer-papers-books-blogs
 ---
 
-# 2024
+# 2024 Reads
 
 ## Books
 
@@ -43,7 +43,7 @@ slug: papers-and-books
 - [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Eric Boutin, Jaliya Ekanayake, Wei Lin, Bing Shi, and Jingren Zhou, Microsoft; Zhengping Qian, Ming Wu, and Lidong Zhou, Microsoft Research](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center by Benjamin Hindman, Andy Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, Ion Stoica](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
 
-# 2023
+# 2023 Reads
 
 Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
@@ -86,7 +86,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 ---
 
-# 2022
+# 2022 Reads
 
 ## Books
 - [* Designing Distributed Control Systems: A Pattern Language Approach (Wiley Software Patterns Series)](https://www.amazon.com/gp/product/1118694155)

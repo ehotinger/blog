@@ -30,6 +30,8 @@ slug: papers-and-books
 - [Clearer, Closer, Better: How Successful People See the World by Emily Balcetis](https://www.amazon.com/Clearer-Closer-Better-Successful-People/dp/1524796468)
 - [Tress of the Emerald Sea: A Cosmere Novel by Brandon Sanderson](https://www.amazon.com/Tress-Emerald-Sea-Cosmere-Projects-ebook/dp/B0BPNB19CL)
 - [Relentless: From Good to Great to Unstoppable by Tim Grover, Shari Wenk](https://www.amazon.com/Relentless-Unstoppable-Tim-S-Grover/dp/1476714207)
+- [The Three-Body Problem by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
+- [The Dark Forest (The Three-Body Problem Series, 2) by Cixin Liu](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690)
 
 ## Blogs
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
@@ -39,8 +41,6 @@ slug: papers-and-books
 
 ### Job & Cluster Scheduling
 - [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Eric Boutin, Jaliya Ekanayake, Wei Lin, Bing Shi, and Jingren Zhou, Microsoft; Zhengping Qian, Ming Wu, and Lidong Zhou, Microsoft Research](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)
-    - The paper presents a cluster task scheduling system developed by a team of Microsoft researchers to efficiently manage cloud-scale computing resources. Apollo has the capability of handling over 20,000 jobs per second, with a 95% of regular tasks experiencing queueing delays of less than one second. Central to Apollo's effectiveness is its scheduler, which employs weighted decisions based on job similarities and historical data, enabling accurate estimation of resource needs and job durations.
-    - The system utilizes a token-based throttle to manage capacity and prevent overload, ensuring uninterrupted service and performance stability. Apollo's rollout strategy is also noteworthy, as it is implemented in phases to mitigate potential disruptions to ongoing jobs. The system supports both "opportunistic" and "regular" tasks, with opportunistic tasks being scheduled ahead of time and queued for execution based on resource availability predictions. Furthermore, Apollo adapts to varying system loads, accommodating fluctuations in job types and schedules, such as those occurring on weekends or weekdays. With support for task priorities, Apollo emerges as a comprehensive solution for cloud-scale job scheduling, offering scalability, efficiency, and adaptability to meet the dynamic demands of modern computing environments.
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center by Benjamin Hindman, Andy Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, Ion Stoica](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
 
 # 2023

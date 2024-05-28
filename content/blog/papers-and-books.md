@@ -39,9 +39,17 @@ slug: software-developer-papers-books-blogs
 
 ## Papers
 
-### Job & Cluster Scheduling
-- [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Eric Boutin, Jaliya Ekanayake, Wei Lin, Bing Shi, and Jingren Zhou, Microsoft; Zhengping Qian, Ming Wu, and Lidong Zhou, Microsoft Research](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)
-- [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center by Benjamin Hindman, Andy Konwinski, Matei Zaharia, Ali Ghodsi, Anthony D. Joseph, Randy Katz, Scott Shenker, Ion Stoica](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
+### Job/Cluster Scheduling
+- [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Boutin, Microsoft Research et al](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)
+- [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center by Hindman, et al](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)
+- [Hawk: Hybrid Datacenter Scheduling by Delgado, et al](https://www.usenix.org/system/files/conference/atc15/atc15-paper-delgado_update.pdf)
+- [Apache Hadoop YARN: Yet Another Resource Negotiator by Vavilapallih, et al](https://www.cse.ust.hk/~weiwa/teaching/Fall15-COMP6611B/reading_list/YARN.pdf)
+- [Tarcil: reconciling scheduling speed and quality in large shared clusters by Delimitrou, et al](https://dl.acm.org/doi/10.1145/2806777.2806779)
+- [Large-scale cluster management at Google with Borg by Verma, et al](https://dl.acm.org/doi/pdf/10.1145/2741948.2741964)
+- [Container Loading in AWS Lambda by Marc Brooker](https://brooker.co.za/blog/2023/05/23/snapshot-loading.html)
+- [Quincy: Fair Scheduling for Distributed Computing Clusters by Isgard, et al](https://www.sigops.org/s/conferences/sosp/2009/papers/isard-sosp09.pdf)
+- [Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters by Karanasos, et al](https://www.usenix.org/system/files/conference/atc15/atc15-paper-karanasos.pdf)
+- [Sparrow: distributed, low latency scheduling by Ousterhout et al](https://dl.acm.org/doi/10.1145/2517349.2522716)
 
 # 2023 Reads
 

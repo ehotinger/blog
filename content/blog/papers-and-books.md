@@ -32,6 +32,7 @@ slug: software-developer-papers-books-blogs
 - [Relentless: From Good to Great to Unstoppable by Tim Grover, Shari Wenk](https://www.amazon.com/Relentless-Unstoppable-Tim-S-Grover/dp/1476714207)
 - [The Three-Body Problem by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
 - [The Dark Forest (The Three-Body Problem Series, 2) by Cixin Liu](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690)
+- [The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery](https://www.amazon.com/Mountain-You-Transforming-Self-Sabotage-Self-Mastery/dp/1949759229)
 
 ## Blogs
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)

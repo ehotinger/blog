@@ -30,8 +30,10 @@ slug: software-developer-papers-books-blogs
 - [Clearer, Closer, Better: How Successful People See the World by Emily Balcetis](https://www.amazon.com/Clearer-Closer-Better-Successful-People/dp/1524796468)
 - [Tress of the Emerald Sea: A Cosmere Novel by Brandon Sanderson](https://www.amazon.com/Tress-Emerald-Sea-Cosmere-Projects-ebook/dp/B0BPNB19CL)
 - [Relentless: From Good to Great to Unstoppable by Tim Grover, Shari Wenk](https://www.amazon.com/Relentless-Unstoppable-Tim-S-Grover/dp/1476714207)
-- [The Three-Body Problem by Cixin Liu](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
-- [The Dark Forest (The Three-Body Problem Series, 2) by Cixin Liu](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690)
+- The Three-Body Problem Series by Cixin Liu
+    - [The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032)
+    - [The Dark Forest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690)
+    - [Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765377101)
 - [The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery](https://www.amazon.com/Mountain-You-Transforming-Self-Sabotage-Self-Mastery/dp/1949759229)
 
 ## Blogs

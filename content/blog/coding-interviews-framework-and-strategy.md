@@ -91,4 +91,10 @@ Below is a calibration guideline which applies to all coding interviews. Fill in
     - https://github.com/ehotinger/hackerrank
     - https://github.com/ehotinger/leetcode
 
-Thanks for reading this far. Be sure to check out my similar posts on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) and [Behavioral Interviews](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/) too. Best of luck in your interviews!
+## 8. Related Reading
+Thanks for reading this far. Be sure to check out all of my related interviewing posts:
+
+- [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
+- [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)
+- [Coding Interview Framework & Strategy](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/)
+- [Technical Program Management (TPM) Example Interview Questions](https://ehotinger.com/blog/technical-program-manager-example-interview-questions/)

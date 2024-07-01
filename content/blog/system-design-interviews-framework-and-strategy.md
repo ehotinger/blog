@@ -163,4 +163,10 @@ Below is a calibration guideline which applies to the majority of system design 
 4. Research the company, teams, and interviewers that you're interviewing with. Most teams will ask system design questions which are similar to what the team actually works on to see if you'd be able to easily adapt to the team. If the company has an engineering blog, read their posts. Understand the product that the team you are interviewing with is building and think about how you would design that product from scratch. Do research.
 5. For Senior, Staff, and Principal level positions, the main way to stand out is by going in-depth in particular topics. You'll likely want to spend more time here and you should aim to finish all requirement gathering and the high-level design much faster than other individuals.
 
-Thanks for reading this far. Be sure to check out my similar post on [Coding Interviews](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/) and [Behavioral Interviews](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/) too. Best of luck in your interviews!
+## 8. Related Reading
+Thanks for reading this far. Be sure to check out all of my related interviewing posts:
+
+- [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
+- [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)
+- [Coding Interview Framework & Strategy](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/)
+- [Technical Program Management (TPM) Example Interview Questions](https://ehotinger.com/blog/technical-program-manager-example-interview-questions/)

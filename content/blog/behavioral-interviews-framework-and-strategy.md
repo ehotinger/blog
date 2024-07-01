@@ -21,8 +21,6 @@ slug: behavioral-interviews-framework-and-strategy
 
 # Behavioral Interviews: Framework and Strategy
 
-This post is the final framework and strategy for technical interviews. If you haven't already, be sure to check out my similar posts on [System Design Interviews](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/) and [Coding Interviews](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/) too.
-
 ## 1. The Framework
 
 Use the Situation, Task, Action, Result framework. Also known as [STAR](https://en.wikipedia.org/wiki/Situation,_task,_action,_result).
@@ -56,3 +54,11 @@ As you can tell, the second answer to the same question has significantly more a
 ## 5. Inspiration
 
 Read the mission statement of the company you're interviewing for and make up questions that are relevant to their principles. For example, you can use [Amazon's leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) and make up questions that are relevant to each leadership principle. Every company will ask similar questions so this is a good starting point.
+
+## 6. Related Reading
+Thanks for reading this far. Be sure to check out all of my related interviewing posts:
+
+- [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
+- [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)
+- [Coding Interview Framework & Strategy](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/)
+- [Technical Program Management (TPM) Example Interview Questions](https://ehotinger.com/blog/technical-program-manager-example-interview-questions/)

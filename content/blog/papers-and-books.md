@@ -39,6 +39,7 @@ slug: software-developer-papers-books-blogs
 ## Blogs
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
 - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
+- [Skeleton Key Gen AI Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 
 ## Papers
 

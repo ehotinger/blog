@@ -43,6 +43,9 @@ slug: software-developer-papers-books-blogs
 
 ## Papers
 
+### DBMS
+- [What Goes Around Comes Around... And Around... by Michael Stonebraker and Andrew Pavlo](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
+
 ### Job/Cluster Scheduling
 - [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Boutin, Microsoft Research et al](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)
 - [Mesos: A Platform for Fine-Grained Resource Sharing in the Data Center by Hindman, et al](http://static.usenix.org/events/nsdi11/tech/full_papers/Hindman_new.pdf)

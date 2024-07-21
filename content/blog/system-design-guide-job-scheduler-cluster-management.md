@@ -76,7 +76,8 @@ description: "Master the art of designing scalable job schedulers and cluster ma
 This is just a sample of what you could come up with. For example, we could also put the cron expression directly on the job object if we don't want to have schedules to be managed on their own and/or have multiple schedules associated to a particular job.
 
 ## High Level Design
-![High Level Job Scheduler Design](/img/system-design/job-scheduler/job-scheduler-hld.png)
+![High-level diagram of a scalable job scheduler and cluster management system](/img/system-design/job-scheduler/job-scheduler-hld.png)
+Figure 1: High-level architecture of a scalable job scheduler and cluster management system. This diagram illustrates the flow from user interaction through job execution and status reporting.
 
 - Users create/manage their jobs and schedules via a CLI or console.
 - Programs are uploaded into a Blob Storage like Amazon S3 or Azure Blob. We store the schedule/job metadata in a database.
@@ -85,7 +86,9 @@ This is just a sample of what you could come up with. For example, we could also
 - Job workers are constantly polling the queue when they do not have a job / work to complete. Once they pick up a job, they run it, and upload results/job status into the database.
 
 ## Low Level Design & Deep Dive
-![Low Level Job Scheduler Design](/img/system-design/job-scheduler/job-scheduler-lld.png)
+![Detailed architecture diagram of a job scheduler system with queue and worker components](/img/system-design/job-scheduler/job-scheduler-lld.png)
+Figure 2: Detailed low-level architecture of the job scheduler system, showcasing key components such as the scheduler partitioner, job queue, and worker fleet. This diagram demonstrates how the system handles job distribution and execution at scale.
+
 - Why not have the API directly send jobs to the Job Workers or have the scheduler directly send jobs to the Job Workers?
     - We prefer using a job queue as an intermediate storage layer between the API/Scheduler and the job workers to help with back pressure in the system. Without the queue, if there is no worker available to pick up the job, then the API would have to return an error back to the client to try again and the scheduler would have to retry as well. Moreover, if we were to push jobs directly to workers rather than the queue, we would need to have a load balancer of some sort in between that knows how to distribute jobs only to workers that are not currently running jobs. This means the load balancer would have to be constantly polling and maintaining a map of a large fleet (~100k instances, and growing each year as the service scales).
 - How do we minimize the latency of the scheduler (i.e. if polling, how to make it fast in a matter of milliseconds)?

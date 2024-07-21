@@ -154,7 +154,7 @@ Much of this article is based on real-world systems and classical research that 
 
 ## Related Reading
 
-Thanks for reading this far. Be sure to check out all of my related interview practice posts:
+Thanks for reading this far. Be sure to check out all of my related technical interview practice posts:
 
 - [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
 - [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)

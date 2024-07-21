@@ -97,6 +97,12 @@ This section will vary drastically depending on the problem, but you should aim 
 3. Label your units (i.e., milliseconds, seconds, kilobytes, megabytes, etc.) so that they're clear to the interviewer.
 4. Write down any assumptions you have about the system as you go along, and make sure your interviewer is on the same page for those assumptions. If they aren't, ask them how you should think about it differently.
 
+### 1.6 - Sample Questions to Ask
+- Identify all the nouns and verbs in the system. For each noun, you can ask "how many are there?" For example, how many users are there in the system? How many regions do we have? Is there anything noteworthy about each noun?
+    - There are a set of nouns that are common in all system designs, such as "users," and "regions" and you can create a list of pre-formed questions for these. For example, how many users are internal vs external?
+- Verbs can focus around Service-Level Agreements/SLAs. E.g., what is availability of this API required, what is the latency requirement? How frequently does each API get called in relation to each other?
+- Resources are always the same in each system. For example, CPU/Memory/Disk. Do you need to ask any questions about them?
+
 ## 2. Create a high-level design and get sign off on the direction.
 
 At this point, you know all the requirements of the system and have built a rough model in your head for how to represent all the data flowing through the system. Once your interviewer confirms you're not missing any important requirements of the system and you feel there is no more ambiguity, it's time to write down the high-level diagrams of the system.

@@ -1,49 +1,29 @@
 ---
-title: "System Design Job Scheduler Cluster Management"
+title: "System Design: Job Scheduler & Cluster Management"
 date: 2024-07-21T09:28:22-07:00
 draft: false
 
 tags:
 - interviews
 - system design
-- software engineering
-- job scheduler
-- cluster management
 - cloud architecture
 - distributed systems
 - scalability
-- high availability
-- software architecture
-- tech interviews
-- computer science
 - cloud computing
-- microservices
-- database design
-- system optimization
 
 categories:
 - interviews
 - system design
-- software engineering
-- job scheduler
-- cluster management
 - cloud architecture
 - distributed systems
 - scalability
-- high availability
-- software architecture
-- tech interviews
-- computer science
 - cloud computing
-- microservices
-- database design
-- system optimization
 
 description: "Explore a comprehensive guide to designing a scalable job scheduler and cluster management system. Learn about system architecture and the key considerations for handling millions of daily jobs across hundreds of thousands of customers based on architecture from Google, Microsoft, Amazon, Meta, and more."
 
 ---
 
-# System Design - Job Scheduler / Cluster Scheduling
+# System Design: Job Scheduler & Cluster Management
 
 **Design a cloud service where users can execute arbitrary jobs on a recurring schedule or manually.**
 

@@ -164,7 +164,7 @@ Below is a calibration guideline which applies to the majority of system design 
 5. For Senior, Staff, and Principal level positions, the main way to stand out is by going in-depth in particular topics. You'll likely want to spend more time here and you should aim to finish all requirement gathering and the high-level design much faster than other individuals.
 
 ## 8. Related Reading
-Thanks for reading this far. Be sure to check out all of my related interviewing posts:
+Thanks for reading this far. Be sure to check out all of my related interview practice posts:
 
 - [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
 - [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)

@@ -34,7 +34,7 @@ Below is a collection of various interview questions I've asked to TPMs in the p
 - How do you communicate and track projects?
 - Can you build a project plan to do X, Y, Z to me? What milestones should we have and what should their scope be?
 - Give me an example when you had to work with many stakeholders and build consensus on a solution to a problem. How did you know you were correct, what feedback did you seek?
-- How do you ensure you have the right skillsets working on projects?
+- How do you ensure you have the right skill sets working on projects?
 - What is the definition of a good milestone to you? How do you know you have good milestones in a project?
 - Describe the methods and techniques you use to keep your projects on track.
 
@@ -72,7 +72,7 @@ Below is a collection of various interview questions I've asked to TPMs in the p
 - [] The candidate is persuasive and able to earn the trust of diverse teams
 
 ## Related Reading
-Thanks for reading this far. Be sure to check out all of my related interviewing posts:
+Thanks for reading this far. Be sure to check out all of my related interview practice posts:
 
 - [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
 - [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)

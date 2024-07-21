@@ -55,10 +55,11 @@ As you can tell, the second answer to the same question has significantly more a
 
 Read the mission statement of the company you're interviewing for and make up questions that are relevant to their principles. For example, you can use [Amazon's leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles) and make up questions that are relevant to each leadership principle. Every company will ask similar questions so this is a good starting point.
 
-## 6. Related Reading
+## 6. Related Posts
 Thanks for reading this far. Be sure to check out all of my related interviewing posts:
 
 - [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
 - [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)
 - [Coding Interview Framework & Strategy](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/)
 - [Technical Program Management (TPM) Example Interview Questions](https://ehotinger.com/blog/technical-program-manager-example-interview-questions/)
+- [System Design Guide: Scalable Job Schedulers & Cluster Management](https://ehotinger.com/blog/system-design-guide-scalable-job-schedulers-cluster-management/)

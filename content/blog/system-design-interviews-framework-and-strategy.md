@@ -6,11 +6,19 @@ author: "Eric Hotinger"
 
 tags:
 - interviews
+- system design
+- cloud architecture
 - distributed systems
+- scalability
+- cloud computing
 
 categories:
 - interviews
+- system design
+- cloud architecture
 - distributed systems
+- scalability
+- cloud computing
 
 description: "Get ready for your system design interview with this comprehensive guide. The post covers a reliable strategy and framework for tackling the most difficult technical interviews. The content is written for interviewees, but interviewers will also find valuable insights. The framework consists of four steps: outlining use cases and constraints, creating a high-level design, designing core components in detail, and scaling the design. The first step includes defining the product specification and outlines important topics such as user requirements, data models, and storage and consistency. The post also includes a rough calibration guide to evaluate your performance after practice. Make the most of your system design interview with this helpful guide."
 
@@ -140,20 +148,20 @@ If you are ever unsure how long you will get for your system design interview, s
 
 Below is a calibration guideline which applies to the majority of system design interviews. Fill in the brackets with a checkmark and ask yourself whether you accomplished all of them. If you didn't, try to correct it going forward.
 
-- [] Removes ambiguity in the problem statement
-- [] Drives the conversation
-- [] Can articulate shortcomings and tradeoffs with different designs
-- [] Translates requirements into user stories
-- [] APIs cover requirements
-- [] Sufficient HTTP knowledge/front end depth
-- [] Infrastructure knowledge
-- [] Familiarity with load balancers and fleets (no single points of failure)
-- [] Familiarity with data layer
-- [] The system is operational; logging/tracing/monitoring
-- [] The system has proper data models
-- [] The system can scale (i.e., sharding, partitioning, or other mechanisms)
-- [] The system meets latency and availability requirements, or other SLAs
-- [] The system meets all initial requirements for the product specification
+- [ ] Removes ambiguity in the problem statement
+- [ ] Drives the conversation
+- [ ] Can articulate shortcomings and tradeoffs with different designs
+- [ ] Translates requirements into user stories
+- [ ] APIs cover requirements
+- [ ] Sufficient HTTP knowledge/front end depth
+- [ ] Infrastructure knowledge
+- [ ] Familiarity with load balancers and fleets (no single points of failure)
+- [ ] Familiarity with data layer
+- [ ] The system is operational; logging/tracing/monitoring
+- [ ] The system has proper data models
+- [ ] The system can scale (i.e., sharding, partitioning, or other mechanisms)
+- [ ] The system meets latency and availability requirements, or other SLAs
+- [ ] The system meets all initial requirements for the product specification
 
 ## 7. Closing Thoughts and Final Tips
 
@@ -167,9 +175,9 @@ Below is a calibration guideline which applies to the majority of system design 
 
 Practice your system design using these examples:
 
-- [System Design: Job Scheduler & Cluster Management](https://ehotinger.com/blog/system-design-job-scheduler-cluster-management/)
+- [System Design Guide: Scalable Job Schedulers & Cluster Management](https://ehotinger.com/blog/system-design-guide-scalable-job-schedulers-cluster-management/)
 
-## 9. Related Reading
+## 9. Related Posts
 
 Thanks for reading this far. Be sure to check out all of my related technical interview practice posts:
 

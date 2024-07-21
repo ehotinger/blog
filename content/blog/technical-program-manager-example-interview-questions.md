@@ -58,23 +58,25 @@ Below is a collection of various interview questions I've asked to TPMs in the p
 - What is a typical project like for you? Size of project, number of stakeholders, different businesses, international, dollar amount, impact/complexity?
 
 ## Calibration Guide
-- [] The candidate can deal with ambiguity
-- [] The candidate has a sense of urgency
-- [] The candidate can find solutions when none are obvious
-- [] The candidate is hands on with their projects
-- [] The candidate is able to build consensus and collaboration
-- [] The candidate can identify the warning signs of a troubled project
-- [] The candidate is able to communicate and see the big picture
-- [] The candidate is not afraid to negotiate
-- [] The candidate is not afraid to escalate when required
-- [] The candidate is technically sound and hands on
-- [] The candidate is able to come up with solid project plans while articulating risks and actively seeking out ways to mitigate them
-- [] The candidate is persuasive and able to earn the trust of diverse teams
+- [ ] The candidate can deal with ambiguity
+- [ ] The candidate has a sense of urgency
+- [ ] The candidate can find solutions when none are obvious
+- [ ] The candidate is hands on with their projects
+- [ ] The candidate is able to build consensus and collaboration
+- [ ] The candidate can identify the warning signs of a troubled project
+- [ ] The candidate is able to communicate and see the big picture
+- [ ] The candidate is not afraid to negotiate
+- [ ] The candidate is not afraid to escalate when required
+- [ ] The candidate is technically sound and hands on
+- [ ] The candidate is able to come up with solid project plans while articulating risks and actively seeking out ways to mitigate them
+- [ ] The candidate is persuasive and able to earn the trust of diverse teams
 
-## Related Reading
-Thanks for reading this far. Be sure to check out all of my related interview practice posts:
+## Related Posts
+
+Thanks for reading this far. Be sure to check out all of my related technical interview practice posts:
 
 - [System Design Interview Framework & Strategy](https://ehotinger.com/blog/system-design-interviews-framework-and-strategy/)
 - [Behavioral Interview Framework & Strategy](https://ehotinger.com/blog/behavioral-interviews-framework-and-strategy/)
 - [Coding Interview Framework & Strategy](https://ehotinger.com/blog/coding-interviews-framework-and-strategy/)
 - [Technical Program Management (TPM) Example Interview Questions](https://ehotinger.com/blog/technical-program-manager-example-interview-questions/)
+- [System Design Guide: Scalable Job Schedulers & Cluster Management](https://ehotinger.com/blog/system-design-guide-scalable-job-schedulers-cluster-management/)

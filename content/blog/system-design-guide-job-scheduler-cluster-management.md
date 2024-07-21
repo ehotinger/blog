@@ -1,7 +1,8 @@
 ---
-title: "System Design: Job Scheduler & Cluster Management"
+title: "System Design Guide: Scalable Job Schedulers & Cluster Management"
 date: 2024-07-21T09:28:22-07:00
 draft: false
+author: "Eric Hotinger"
 
 tags:
 - interviews
@@ -23,7 +24,7 @@ description: "Explore a comprehensive guide to designing a scalable job schedule
 
 ---
 
-# System Design: Job Scheduler & Cluster Management
+# System Design Guide: Scalable Job Schedulers & Cluster Management
 
 **Design a cloud service where users can execute arbitrary jobs on a recurring schedule or manually.**
 
@@ -152,7 +153,7 @@ Much of this article is based on real-world systems and classical research that 
 - [Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters by Karanasos, et al](https://www.usenix.org/system/files/conference/atc15/atc15-paper-karanasos.pdf)
 - [Sparrow: distributed, low latency scheduling by Ousterhout et al](https://dl.acm.org/doi/10.1145/2517349.2522716)
 
-## Related Reading
+## Related Posts
 
 Thanks for reading this far. Be sure to check out all of my related technical interview practice posts:
 

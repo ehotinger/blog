@@ -20,7 +20,7 @@ categories:
 - scalability
 - cloud computing
 
-description: "Explore a comprehensive guide to designing a scalable job scheduler and cluster management system. Learn about system architecture and the key considerations for handling millions of daily jobs across hundreds of thousands of customers based on architecture from Google, Microsoft, Amazon, Meta, and more."
+description: "Master the art of designing scalable job schedulers and cluster management systems. Learn key architectural considerations, tackle millions of daily jobs, and explore real-world solutions from tech giants like Google, Microsoft, and Amazon."
 
 ---
 

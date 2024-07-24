@@ -8,13 +8,21 @@ description: "Maximize your chances of success in a behavioral interview with th
 
 tags:
 - interviews
-- development
-- software
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
 categories:
 - interviews
-- development
-- software
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
 slug: behavioral-interviews-framework-and-strategy
 ---

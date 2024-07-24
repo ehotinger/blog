@@ -11,6 +11,7 @@ tags:
 - distributed systems
 - scalability
 - cloud computing
+- leetcode
 
 categories:
 - interviews
@@ -19,8 +20,9 @@ categories:
 - distributed systems
 - scalability
 - cloud computing
+- leetcode
 
-description: "Master the art of designing scalable job schedulers and cluster management systems. Learn key architectural considerations, tackle millions of daily jobs, and explore real-world solutions from tech giants like Google, Microsoft, and Amazon."
+description: "In this post, we design scalable job schedulers and cluster management systems. You'll learn the key architectural considerations and how to tackle billions of daily jobs using real-world solutions and papers from tech companies like Google, Microsoft, Meta, and Amazon."
 
 ---
 

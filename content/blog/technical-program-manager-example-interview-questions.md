@@ -5,15 +5,23 @@ draft: false
 
 tags:
 - interviews
-- technology careers
-- software engineering
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
 categories:
 - interviews
-- technology careers
-- software engineering
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
-description: "Discover essential interview questions for Technical Program Manager (TPM) roles to help you prepare for your next interview. This comprehensive guide includes questions on technical problem-solving, project tracking, risk management, escalation, and interpersonal skills, along with an example calibration guide. Perfect for aspiring TPMs and interviewers looking for a reliable resource to assess candidates effectively."
+description: "This post covers essential interview questions for Technical Program Manager (TPM) roles to help you prepare for your next interview. This  guide includes questions on technical problem-solving, project tracking, risk management, escalation, and interpersonal skills. Perfect for aspiring TPMs and interviewers alike."
 
 slug: technical-program-manager-example-interview-questions
 

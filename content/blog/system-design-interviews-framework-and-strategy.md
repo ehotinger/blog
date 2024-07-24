@@ -11,6 +11,7 @@ tags:
 - distributed systems
 - scalability
 - cloud computing
+- leetcode
 
 categories:
 - interviews
@@ -19,6 +20,7 @@ categories:
 - distributed systems
 - scalability
 - cloud computing
+- leetcode
 
 description: "Get ready for your system design interview with this comprehensive guide. The post covers a reliable strategy and framework for tackling the most difficult technical interviews. The content is written for interviewees, but interviewers will also find valuable insights. The framework consists of four steps: outlining use cases and constraints, creating a high-level design, designing core components in detail, and scaling the design. The first step includes defining the product specification and outlines important topics such as user requirements, data models, and storage and consistency. The post also includes a rough calibration guide to evaluate your performance after practice. Make the most of your system design interview with this helpful guide."
 

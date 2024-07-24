@@ -4,18 +4,25 @@ date: 2023-01-08T12:22:00-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "A comprehensive guide to acing your coding interview. This post provides a step-by-step framework to approach coding interviews effectively. The framework covers four steps- Requirements, High-level Design, Coding and Follow-ups. It also provides tips and techniques for each step and time management advice to make the most of your interview. Additionally, a calibration guide is included to evaluate your performance and ensure you meet all the necessary criteria for success. Follow this guide for a structured and efficient approach to coding interviews."
+description: "A comprehensive guide to ace your coding interviews at tech giants like Google, Meta, Netflix, Microsoft, and Amazon."
 
 tags:
 - interviews
-- development
-- software
-
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
 categories:
 - interviews
-- development
-- software
+- system design
+- cloud architecture
+- distributed systems
+- scalability
+- cloud computing
+- leetcode
 
 slug: coding-interviews-framework-and-strategy
 ---

@@ -7,10 +7,12 @@ author: "Eric Hotinger"
 tags:
 - development
 - software
+- availability
 
 categories:
 - development
 - software
+- availability
 
 description: "Learn about the concept of grey modes in complex distributed systems and the importance of operating partially in case of hardware failures. Discover how circular buffers and logging can help prevent system crashes in Docker. Explore the pros and cons of operating in a grey mode and how to make informed architectural decisions. Get tips and insights on how to optimize your system's health and keep your customers happy."
 

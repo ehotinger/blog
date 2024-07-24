@@ -4,7 +4,7 @@ date: 2024-05-26T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "Discover the latest must-read papers, books, and blog posts curated for software developers. Stay ahead of the curve with this comprehensive collection"
+description: "A list of some of the latest must-read papers, books, and blog posts for software developers."
 
 tags:
 - books

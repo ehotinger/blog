@@ -40,11 +40,13 @@ slug: software-developer-papers-books-blogs
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)
 - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 - [Skeleton Key Gen AI Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
+- [Resource Management in Aurora Serverless](https://brooker.co.za/blog/2024/07/29/aurora-serverless.html)
 
 ## Papers
 
 ### DBMS
 - [What Goes Around Comes Around... And Around... by Michael Stonebraker and Andrew Pavlo](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
+- [Resource Management in Aurora Serverless](https://www.amazon.science/publications/resource-management-in-aurora-serverless)
 
 ### Job/Cluster Scheduling
 - [Apollo: Scalable and Coordinated Scheduling for Cloud-Scale Computing by Boutin, Microsoft Research et al](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-boutin_0.pdf)

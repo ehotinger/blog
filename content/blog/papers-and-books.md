@@ -25,6 +25,7 @@ slug: software-developer-papers-books-blogs
 
 ## Books
 
+- [Walden by Henry David Thoreau](https://www.amazon.com/Walden-Henry-David-Thoreau-ebook/dp/B074TDCG2F)
 - [Endurance by Alfred Lansing](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 - [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García, Francesc Miralles](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)
 - [Clearer, Closer, Better: How Successful People See the World by Emily Balcetis](https://www.amazon.com/Clearer-Closer-Better-Successful-People/dp/1524796468)
@@ -41,6 +42,7 @@ slug: software-developer-papers-books-blogs
 - [Slack’s Migration to a Cellular Architecture](https://slack.engineering/slacks-migration-to-a-cellular-architecture/)
 - [Skeleton Key Gen AI Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 - [Resource Management in Aurora Serverless](https://brooker.co.za/blog/2024/07/29/aurora-serverless.html)
+- [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 
 ## Papers
 

@@ -1,10 +1,10 @@
 ---
-title: "Exploring the Latest Papers, Books, and Blogs for Software Developers"
+title: "The Latest Papers, Books, and Blogs That I Have Read"
 date: 2024-05-26T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "A list of some of the latest must-read papers, books, and blog posts for software developers."
+description: "A collection of papers, books, and blog posts I've read recently."
 
 tags:
 - books
@@ -18,7 +18,7 @@ categories:
 - papers
 - academia
 
-slug: software-developer-papers-books-blogs
+slug: papers-and-books
 ---
 
 # 2024 Reads
@@ -36,6 +36,9 @@ slug: software-developer-papers-books-blogs
     - [The Dark Forest](https://www.amazon.com/Dark-Forest-Remembrance-Earths-Past/dp/0765386690)
     - [Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765377101)
 - [The Mountain Is You: Transforming Self-Sabotage Into Self-Mastery](https://www.amazon.com/Mountain-You-Transforming-Self-Sabotage-Self-Mastery/dp/1949759229)
+- [Bushido, The Soul Of Japan by Inazo Nitobe](https://www.amazon.com/Bushido-Japan-Annotated-Inazo-Nitobe/dp/B08P29D7MV)
+- [A Psalm for the Wild-Built: A Monk and Robot Book (Monk & Robot, 1) by Becky Chambers](https://www.amazon.com/gp/product/1250236215)
+- [A Prayer for the Crown-Shy: A Monk and Robot Book (Monk & Robot, 2) by Becky Chambers](https://www.amazon.com/Prayer-Crown-Shy-Monk-Robot/dp/1250236231)
 
 ## Blogs
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359)

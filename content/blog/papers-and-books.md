@@ -46,6 +46,7 @@ slug: papers-and-books
 - [Skeleton Key Gen AI Jailbreak](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
 - [Resource Management in Aurora Serverless](https://brooker.co.za/blog/2024/07/29/aurora-serverless.html)
 - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
+- [Life Lessons from the First Half-Century of My Career by David Patterson](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/)
 
 ## Papers
 

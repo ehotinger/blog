@@ -25,6 +25,7 @@ slug: papers-and-books
 
 ## Books
 
+- [* The Meditations of Marcus Aurelius](https://www.amazon.com/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337)
 - [A Sorceress Comes to Call by T. Kingfisher](amazon.com/Sorceress-Comes-Call-T-Kingfisher/dp/1250244072)
 - [Project Hail Mary by Andy Weir](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229)
 - [King, Warrior, Magician, Lover by Robert Moore, Douglas Gillette](https://www.amazon.com/King-Warrior-Magician-Lover-Rediscovering/dp/0062506064)
@@ -74,12 +75,12 @@ slug: papers-and-books
 Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
 ## Books
-- [Outlive: The Science and Art of Longevity by Peter Attia](https://www.amazon.ca/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
-- [The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
+- [* Outlive: The Science and Art of Longevity by Peter Attia](https://www.amazon.ca/Outlive-Longevity-Peter-Attia-MD/dp/0593236599)
+- [* The Little Book of Common Sense Investing by John Bogle](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
 - [Never Finished by David Goggins](https://www.amazon.com/Never-Finished-Unshackle-Your-Within/dp/1544534086)
 - [* Die With Zero by Bill Perkins](https://www.amazon.com/Die-Zero-Getting-Your-Money/dp/0358099765)
 - [* How to Win Friends & Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
-- [Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122)
+- [* Four Thousand Weeks: Time Management for Mortals](https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122)
 - [The Way Out by Alan Gordon, Alon Ziv](https://www.amazon.com/Way-Out-Revolutionary-Scientifically-Approach/dp/059308683X)
 - [Full Catastrophe Living by Jon Kabat-Zinn](https://www.amazon.com/Full-Catastrophe-Living-Revised-Illness/dp/0345536932)
 - [* The Power Of Now by Eckhart Tolle](https://www.amazon.com/Power-Now-Eckhart-Tolle/dp/B0095GVWMA)
@@ -117,7 +118,7 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 ## Books
 - [* Designing Distributed Control Systems: A Pattern Language Approach (Wiley Software Patterns Series)](https://www.amazon.com/gp/product/1118694155)
 - [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.amazon.com/gp/product/0394733118)
-- [* Running with the Mind of Meditation: Lessons for Training Body and Mind](https://www.amazon.com/Running-Mind-Meditation-Lessons-Training/dp/B01EK5P2H6)
+- [Running with the Mind of Meditation: Lessons for Training Body and Mind](https://www.amazon.com/Running-Mind-Meditation-Lessons-Training/dp/B01EK5P2H6)
 - [The Road to Sparta: Reliving the Epic Run that Inspired the World's Greatest Foot Race](https://www.amazon.com/Road-Sparta-Reliving-Inspired-Greatest/dp/1760295329)
 - [* Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/B08V4TFFCK)
 - [* Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-audiobook/dp/B015TM0RM4)
@@ -136,6 +137,10 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-to-Live-By-audiobook/dp/B01D24NAL6)
 - [Zero to One: Notes on Startups, or How to Build the Future](https://www.amazon.com/Zero-to-One-audiobook/dp/B00M284NY2)
 - [* Atomic Habits by James Clear](https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH)
+- [* Man’s Search for Meaning by Viktor E. Frankl](https://www.amazon.com/Mans-Search-Meaning-Viktor-Frankl/dp/0807014273)
 
 ## Papers
 - [* Amazon DynamoDB: A Scalable, Predictably Performant, and Fully Managed NoSQL Database Service](https://www.usenix.org/system/files/atc22-elhemali.pdf)
+
+# Goodreads
+- My profile: https://www.goodreads.com/user/show/133308963-eric-hotinger (feel free to send recommendations!)

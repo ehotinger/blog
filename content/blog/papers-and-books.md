@@ -25,6 +25,7 @@ slug: papers-and-books
 
 ## Books
 
+- [A Sorceress Comes to Call by T. Kingfisher](amazon.com/Sorceress-Comes-Call-T-Kingfisher/dp/1250244072)
 - [Project Hail Mary by Andy Weir](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229)
 - [King, Warrior, Magician, Lover by Robert Moore, Douglas Gillette](https://www.amazon.com/King-Warrior-Magician-Lover-Rediscovering/dp/0062506064)
 - [Walden by Henry David Thoreau](https://www.amazon.com/Walden-Henry-David-Thoreau-ebook/dp/B074TDCG2F)

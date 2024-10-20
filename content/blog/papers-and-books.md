@@ -25,6 +25,7 @@ slug: papers-and-books
 
 ## Books
 
+- [King, Warrior, Magician, Lover by Robert Moore, Douglas Gillette](https://www.amazon.com/King-Warrior-Magician-Lover-Rediscovering/dp/0062506064)
 - [Walden by Henry David Thoreau](https://www.amazon.com/Walden-Henry-David-Thoreau-ebook/dp/B074TDCG2F)
 - [Endurance by Alfred Lansing](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 - [Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García, Francesc Miralles](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)

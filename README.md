@@ -10,7 +10,7 @@ Check out these blog posts for how the architecture works end-to-end. The only t
 
 ## Installing
 
-- `git clone https://github.com/ehotinger/blog --recursive`
+- `git clone git@github.com:ehotinger/blog.git --recursive`
 - `snap install hugo` (Linux) or `brew install hugo` (Mac) or `sudo apt install hugo` (WSL)
 
 ## Submodules

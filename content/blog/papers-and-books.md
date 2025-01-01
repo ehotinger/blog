@@ -21,11 +21,6 @@ categories:
 slug: papers-and-books
 ---
 
-# 2025 Reads
-
-## Books
-- [Fourth Wing (The Empyrean, 1) by Rebecca Yarros](https://www.amazon.com/Fourth-Wing-Empyrean-Rebecca-Yarros/dp/1649374046)
-
 # 2024 Reads
 
 ## Books

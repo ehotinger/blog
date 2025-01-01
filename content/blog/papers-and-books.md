@@ -26,6 +26,7 @@ slug: papers-and-books
 ## Books
 
 - [Fourth Wing (The Empyrean, 1) by Rebecca Yarros](https://www.amazon.com/Fourth-Wing-Empyrean-Rebecca-Yarros/dp/1649374046)
+- [Sage, Huntress, Lover, Queen by Mara Branscombe](https://www.amazon.com/Sage-Huntress-Lover-Queen-Creativity/dp/1644117932)
 
 # 2024 Reads
 
@@ -35,7 +36,6 @@ slug: papers-and-books
 - [A Sorceress Comes to Call by T. Kingfisher](amazon.com/Sorceress-Comes-Call-T-Kingfisher/dp/1250244072)
 - [Project Hail Mary by Andy Weir](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135229)
 - [King, Warrior, Magician, Lover by Robert Moore by Douglas Gillette](https://www.amazon.com/King-Warrior-Magician-Lover-Rediscovering/dp/0062506064)
-- [Sage, Huntress, Lover, Queen by Mara Branscombe](https://www.amazon.com/Sage-Huntress-Lover-Queen-Creativity/dp/1644117932)
 - [* Walden by Henry David Thoreau](https://www.amazon.com/Walden-Henry-David-Thoreau-ebook/dp/B074TDCG2F)
 - [* Endurance by Alfred Lansing](https://www.amazon.com/Endurance-Shackletons-Incredible-Alfred-Lansing/dp/0465062881)
 - [* Ikigai: The Japanese Secret to a Long and Happy Life by Héctor García, Francesc Miralles](https://www.amazon.com/Ikigai-Japanese-Secret-Long-Happy/dp/0143130722)

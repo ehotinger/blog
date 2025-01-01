@@ -38,3 +38,18 @@ Check out these blog posts for how the architecture works end-to-end. The only t
 - interviews
 - AWS
 - meta
+
+## Installing Compatible Hugo
+```sh
+➜  hugo version
+hugo v0.121.1-00b46fed8e47f7bb0a85d7cfc2d9f1356379b740 darwin/arm64 BuildDate=2023-12-08T08:47:45Z VendorInfo=gohugoio
+```
+
+Download from: https://github.com/gohugoio/hugo/releases/tag/v0.121.1
+
+```sh
+➜ type hugo
+hugo is /opt/homebrew/bin/hugo
+```
+
+- `xattr -d com.apple.quarantine /opt/homebrew/bin/hugo` - Unquarantine after moving here if needed.

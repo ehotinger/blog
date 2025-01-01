@@ -1,6 +1,6 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/ehotinger/ehotinger.github.io.git
+	url = git@github.com:ehotinger/ehotinger.github.io.git
 	branch = master
 
 [submodule "themes/cocoa"]

@@ -28,6 +28,10 @@ slug: papers-and-books
 - [Fourth Wing (The Empyrean, 1) by Rebecca Yarros](https://www.amazon.com/Fourth-Wing-Empyrean-Rebecca-Yarros/dp/1649374046)
 - [Sage, Huntress, Lover, Queen by Mara Branscombe](https://www.amazon.com/Sage-Huntress-Lover-Queen-Creativity/dp/1644117932)
 
+## Blogs
+
+- [Databases in 2024: A Year in Review by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
+
 # 2024 Reads
 
 ## Books

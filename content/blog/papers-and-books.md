@@ -27,6 +27,7 @@ slug: papers-and-books
 
 - [Fourth Wing (The Empyrean, 1) by Rebecca Yarros](https://www.amazon.com/Fourth-Wing-Empyrean-Rebecca-Yarros/dp/1649374046)
 - [Sage, Huntress, Lover, Queen by Mara Branscombe](https://www.amazon.com/Sage-Huntress-Lover-Queen-Creativity/dp/1644117932)
+- [Dopamine Detox: A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things by Thibaut Meurisse](https://www.amazon.com/Dopamine-Detox-Remove-Distractions-Productivity/dp/B098GV11M8)
 
 ## Blogs
 

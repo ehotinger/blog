@@ -28,10 +28,12 @@ slug: papers-and-books
 - [Fourth Wing (The Empyrean, 1) by Rebecca Yarros](https://www.amazon.com/Fourth-Wing-Empyrean-Rebecca-Yarros/dp/1649374046)
 - [Sage, Huntress, Lover, Queen by Mara Branscombe](https://www.amazon.com/Sage-Huntress-Lover-Queen-Creativity/dp/1644117932)
 - [Dopamine Detox: A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things by Thibaut Meurisse](https://www.amazon.com/Dopamine-Detox-Remove-Distractions-Productivity/dp/B098GV11M8)
+- [The Autistic Brain: Helping Different Kinds of Minds Succeed by Temple Grandin](https://www.amazon.com/Autistic-Brain-Temple-Grandin/dp/0544227735)
 
 ## Blogs
 
 - [Databases in 2024: A Year in Review by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
+- [Booting Databricks VMs 7x Faster for Serverless Compute](https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute)
 
 # 2024 Reads
 

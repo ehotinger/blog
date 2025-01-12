@@ -30,6 +30,7 @@ slug: papers-and-books
 - [Dopamine Detox: A Short Guide to Remove Distractions and Get Your Brain to Do Hard Things by Thibaut Meurisse](https://www.amazon.com/Dopamine-Detox-Remove-Distractions-Productivity/dp/B098GV11M8)
 - [The Autistic Brain: Helping Different Kinds of Minds Succeed by Temple Grandin](https://www.amazon.com/Autistic-Brain-Temple-Grandin/dp/0544227735)
 - [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness by Jonathan Haidt](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036)
+- [Educated: A Memoir by Tara Westover](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590528)
 
 ## Blogs
 

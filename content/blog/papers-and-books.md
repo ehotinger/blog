@@ -31,11 +31,17 @@ slug: papers-and-books
 - [The Autistic Brain: Helping Different Kinds of Minds Succeed by Temple Grandin](https://www.amazon.com/Autistic-Brain-Temple-Grandin/dp/0544227735)
 - [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness by Jonathan Haidt](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic/dp/0593655036)
 - [Educated: A Memoir by Tara Westover](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590528)
+- [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195)
+- [Beyond the Wand: The Magic and Mayhem of Growing Up a Wizard Paperback by Tom Felton](https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard/dp/1538741377)
 
 ## Blogs
 
 - [Databases in 2024: A Year in Review by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 - [Booting Databricks VMs 7x Faster for Serverless Compute](https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute)
+
+## Papers
+- [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)
+- [Twine: A Unified Cluster Management System for Shared Infrastructure](https://www.usenix.org/system/files/osdi20-tang.pdf)
 
 # 2024 Reads
 

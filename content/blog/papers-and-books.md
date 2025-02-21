@@ -38,6 +38,7 @@ slug: papers-and-books
 
 - [Databases in 2024: A Year in Review by Andy Pavlo](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 - [Booting Databricks VMs 7x Faster for Serverless Compute](https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute)
+- [Continuously Improving Developer Productivity at Snowflake](https://www.snowflake.com/en/blog/improving-developer-productivity-snowflake/)
 
 ## Papers
 - [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)

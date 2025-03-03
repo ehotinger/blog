@@ -33,6 +33,7 @@ slug: papers-and-books
 - [Educated: A Memoir by Tara Westover](https://www.amazon.com/Educated-Memoir-Tara-Westover/dp/0399590528)
 - [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195)
 - [Beyond the Wand: The Magic and Mayhem of Growing Up a Wizard Paperback by Tom Felton](https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard/dp/1538741377)
+- [The Nightingale by Kristin Hannah](https://www.amazon.com/Nightingale-Novel-Kristin-Hannah/dp/1250080401)
 
 ## Blogs
 

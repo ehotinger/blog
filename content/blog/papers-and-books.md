@@ -34,6 +34,7 @@ slug: papers-and-books
 - [21 Lessons for the 21st Century by Yuval Noah Harari](https://www.amazon.com/Lessons-21st-Century-Yuval-Harari/dp/0525512195)
 - [Beyond the Wand: The Magic and Mayhem of Growing Up a Wizard Paperback by Tom Felton](https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard/dp/1538741377)
 - [The Nightingale by Kristin Hannah](https://www.amazon.com/Nightingale-Novel-Kristin-Hannah/dp/1250080401)
+- [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living by Ryan Holiday, Stephen Hanselman](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
 
 ## Blogs
 

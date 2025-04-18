@@ -40,4 +40,5 @@ Backpressure will occur if you can't write logs and the buffer starts to overflo
 Previously, you had to specify the default logging driver across all your tasks individually to ensure they were configured correctly. This could be extremely error-prone in a large organization. Now, since AWS allows you to define this setting across your entire account, you can ensure that all your tasks have safe defaults based on your service requirements.
 
 ## Related Posts
-Check out my related post about [Operating your Service in Grey Modes](https://ehotinger.com/blog/operating-in-grey-modes/).
+- Check out my related post about [Operating your Service in Grey Modes](https://ehotinger.com/blog/operating-in-grey-modes/).
+- AWS What's New: https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode/

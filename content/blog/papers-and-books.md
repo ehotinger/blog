@@ -35,6 +35,7 @@ slug: papers-and-books
 - [Beyond the Wand: The Magic and Mayhem of Growing Up a Wizard Paperback by Tom Felton](https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard/dp/1538741377)
 - [The Nightingale by Kristin Hannah](https://www.amazon.com/Nightingale-Novel-Kristin-Hannah/dp/1250080401)
 - [The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living by Ryan Holiday, Stephen Hanselman](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736)
+- [Life 3.0: Being Human in the Age of Artificial Intelligence by Max Tegmark](https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/1101970316)
 
 ## Blogs
 

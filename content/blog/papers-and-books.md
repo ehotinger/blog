@@ -43,6 +43,7 @@ slug: papers-and-books
 - [Booting Databricks VMs 7x Faster for Serverless Compute](https://www.databricks.com/blog/booting-databricks-vms-7x-faster-serverless-compute)
 - [Continuously Improving Developer Productivity at Snowflake](https://www.snowflake.com/en/blog/improving-developer-productivity-snowflake/)
 - [There are no more hard problems in data](https://royondata.substack.com/p/there-are-no-more-hard-problems-in)
+- [Redis is open source again](https://antirez.com/news/151)
 
 ## Papers
 - [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)

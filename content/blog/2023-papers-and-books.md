@@ -63,6 +63,3 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 - https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/
 - https://aws.amazon.com/codewhisperer/
-
-# Goodreads
-- My profile: https://www.goodreads.com/user/show/133308963-eric-hotinger (feel free to send recommendations!)

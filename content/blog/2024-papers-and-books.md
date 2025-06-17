@@ -71,6 +71,3 @@ Below is a list of papers and books I've read in 2024.
 - [Quincy: Fair Scheduling for Distributed Computing Clusters by Isgard, et al](https://www.sigops.org/s/conferences/sosp/2009/papers/isard-sosp09.pdf)
 - [Mercury: Hybrid Centralized and Distributed Scheduling in Large Shared Clusters by Karanasos, et al](https://www.usenix.org/system/files/conference/atc15/atc15-paper-karanasos.pdf)
 - [Sparrow: distributed, low latency scheduling by Ousterhout et al](https://dl.acm.org/doi/10.1145/2517349.2522716)
-
-# Goodreads
-- My profile: https://www.goodreads.com/user/show/133308963-eric-hotinger (feel free to send recommendations!)

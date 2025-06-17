@@ -4,7 +4,7 @@ date: 2023-01-02T10:24:56-08:00
 draft: false
 author: "Eric Hotinger"
 
-description: "A collection of some of the latest articles, blogs, books, and papers that I've read."
+description: "A collection of the papers, books, blogs, and other interesting tidbits I've read in 2023."
 
 tags:
 - books
@@ -21,7 +21,7 @@ categories:
 slug: 2023-papers-and-books
 ---
 
-# 2023 Papers & Books
+# 2023
 
 Below is a list of papers and books I've read in 2023 with some minor notes around each. Each section represents a general theme/category for software development.
 
@@ -63,3 +63,6 @@ Below is a list of papers and books I've read in 2023 with some minor notes arou
 
 - https://aws.amazon.com/blogs/compute/introducing-aws-lambda-response-streaming/
 - https://aws.amazon.com/codewhisperer/
+
+# Goodreads
+- My profile: https://www.goodreads.com/user/show/133308963-eric-hotinger (feel free to send recommendations!)

@@ -46,10 +46,13 @@ slug: 2025-papers-and-books
 - [Redis is open source again](https://antirez.com/news/151)
 - [The Hiring Post](https://sockpuppet.org/blog/2015/03/06/the-hiring-post/)
 - [Experts Have It Easy](https://boydkane.com/essays/experts)
+- [The last six months in LLMs, illustrated by pelicans on bicycles](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
+- [Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 
 ## Papers
 - [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)
 - [Twine: A Unified Cluster Management System for Shared Infrastructure](https://www.usenix.org/system/files/osdi20-tang.pdf)
+- [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
 
 # Goodreads
 - My profile: https://www.goodreads.com/user/show/133308963-eric-hotinger (feel free to send recommendations!)

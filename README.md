@@ -29,16 +29,6 @@ Check out these blog posts for how the architecture works end-to-end. The only t
 - `sudo bash deploy.sh` (Mac)
 - `./deploy.sh` (WSL)
 
-## Tags and Categories
-
-- software
-- development
-- leadership
-- Azure
-- interviews
-- AWS
-- meta
-
 ## Installing Compatible Hugo
 ```sh
 ➜  hugo version

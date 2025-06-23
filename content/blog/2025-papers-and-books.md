@@ -54,3 +54,4 @@ slug: 2025-papers-and-books
 - [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)
 - [Twine: A Unified Cluster Management System for Shared Infrastructure](https://www.usenix.org/system/files/osdi20-tang.pdf)
 - [Social anxiety disorder-associated gut microbiota increases social fear](https://www.pnas.org/doi/abs/10.1073/pnas.2308706120)
+- [The Last Word](https://people.csail.mit.edu/brooks/idocs/AI_hype_1988.pdf)

@@ -50,6 +50,7 @@ slug: 2025-papers-and-books
 - [Apple supercharges its tools and technologies for developers to foster creativity, innovation, and design](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/)
 - [Career advice, or something like it by Marc Brooker](https://brooker.co.za/blog/2025/06/20/career.html)
 - [Amazon Elastic Kubernetes Service gets independent affirmation of its zero operator access design](https://aws.amazon.com/blogs/security/amazon-elastic-kubernetes-service-gets-independent-affirmation-of-its-zero-operator-access-design/)
+- [Disrupting the first reported AI-orchestrated cyber espionage campaign](https://www.anthropic.com/news/disrupting-AI-espionage)
 
 ## Papers
 - [RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation](https://dl.acm.org/doi/pdf/10.1145/3477132.3483578)

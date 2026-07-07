@@ -8,15 +8,23 @@ Check out these blog posts for how the architecture works end-to-end. The only t
 - https://ehotinger.com/blog/github-pages-aws-ssl/
 - https://ehotinger.com/blog/making-a-github-pages-hugo-blog/
 
-## Installing
+## Installation Instructions
 
 - `git clone git@github.com:ehotinger/blog.git --recursive`
-- `snap install hugo` (Linux) or `brew install hugo` (Mac) or `sudo apt install hugo` (WSL)
 
-## Submodules
+### Installing Compatible Hugo
 
-- `git clone https://github.com/nishanths/cocoa-hugo-theme.git themes/cocoa`
-- `git submodule add -b master https://github.com/ehotinger/ehotinger.github.io.git public` to link the submodule if using a non-recursive clone.
+Download from: https://github.com/gohugoio/hugo/releases/tag/v0.121.1
+
+```sh
+➜  hugo version
+hugo v0.121.1-00b46fed8e47f7bb0a85d7cfc2d9f1356379b740 darwin/arm64 BuildDate=2023-12-08T08:47:45Z VendorInfo=gohugoio
+```
+
+- `mv hugo /opt/homebrew/bin/hugo`
+- `xattr -d com.apple.quarantine /opt/homebrew/bin/hugo` - Unquarantine after moving here if needed.
+
+- Alternatively: `snap install hugo` (Linux) or `brew install hugo` (Mac) or `sudo apt install hugo` (WSL) - but this may not be compatible with the current theme.
 
 ## Publishing
 
@@ -29,17 +37,14 @@ Check out these blog posts for how the architecture works end-to-end. The only t
 - `sudo bash deploy.sh` (Mac)
 - `./deploy.sh` (WSL)
 
-## Installing Compatible Hugo
-```sh
-➜  hugo version
-hugo v0.121.1-00b46fed8e47f7bb0a85d7cfc2d9f1356379b740 darwin/arm64 BuildDate=2023-12-08T08:47:45Z VendorInfo=gohugoio
-```
-
-Download from: https://github.com/gohugoio/hugo/releases/tag/v0.121.1
-
 ```sh
 ➜ type hugo
 hugo is /opt/homebrew/bin/hugo
 ```
 
-- `xattr -d com.apple.quarantine /opt/homebrew/bin/hugo` - Unquarantine after moving here if needed.
+## Submodules
+
+(Not currently required for setup if cloned recursively - kept here for posterity)
+
+- `git clone https://github.com/nishanths/cocoa-hugo-theme.git themes/cocoa`
+- `git submodule add -b master https://github.com/ehotinger/ehotinger.github.io.git public` to link the submodule if using a non-recursive clone.

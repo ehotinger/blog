@@ -30,3 +30,5 @@ slug: 2026-papers-and-books
 
 ## Papers
 - [Claude’s Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
+- [The Dataflow Model: A Practical Approach to Balancing Correctness, Latency, and Cost in Massive-Scale, Unbounded, Out-of-Order Data Processing](https://www.vldb.org/pvldb/vol8/p1792-Akidau.pdf%20%28)
+- [The Dataflow Model Revisited](https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.pdf)

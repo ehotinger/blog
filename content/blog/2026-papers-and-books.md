@@ -27,6 +27,7 @@ slug: 2026-papers-and-books
 
 ## Blogs
 - [How AI agents shape experts’ judgment calls](https://www.anthropic.com/research/agents-judgment-calls)
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content=)
 
 ## Papers
 - [Claude’s Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)

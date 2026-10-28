@@ -26,6 +26,7 @@ slug: 2026-papers-and-books
 ## Books
 
 ## Blogs
+- [How AI agents shape experts’ judgment calls](https://www.anthropic.com/research/agents-judgment-calls)
 
 ## Papers
 - [Claude’s Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
